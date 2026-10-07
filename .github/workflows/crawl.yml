@@ -1,0 +1,39 @@
+name: 24/7 Forum Intel Radar
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Crawler
+        run: |
+          python crawler.py
+
+      - name: Commit and Push Updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add forum_archive.db latest_digest.txt
+          if git diff --staged --quiet; then
+            echo "No new updates in this run."
+          else
+            git commit -m "Auto sync: new forum intel archive [skip ci]"
+            git push
+          fi
