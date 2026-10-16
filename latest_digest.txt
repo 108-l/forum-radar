@@ -1,92 +1,78 @@
 =================================================================
-📡 【全域六维极客情报 快报】(2026-10-16 18:43:28)
-📊 本批次共捕获 42 篇新帖 (NodeSeek: 20篇, V2EX: 13篇, LowEndTalk(EN): 6篇, Lobste.rs: 3篇)
+📡 【全域六维极客情报 快报】(2026-10-16 21:46:33)
+📊 本批次共捕获 35 篇新帖 (NodeSeek: 20篇, V2EX: 5篇, LowEndTalk(EN): 4篇, Lobste.rs: 6篇)
 -----------------------------------------------------------------
 🧠 【核心动向速览】：🌐 英文全球特价主机与海外算力一手行情；🦞 全球邀请制底层系统架构与极客讨论；🤖 AI商业车位招募与大模型落地风向；💻 国内云服务线路波动与二手转让
 -----------------------------------------------------------------
 📋 【最新抓取清单】：
-01. [NodeSeek] 推荐个电视剧，最近看电视剧上瘾了。mjj们
-    🔗 https://www.nodeseek.com/post-988642-1
-02. [NodeSeek] 招商银行万事达蓝葵花境外消费冻结率是多少呀？
-    🔗 https://www.nodeseek.com/post-988641-1
-03. [NodeSeek] 出一张ctexcel
-    🔗 https://www.nodeseek.com/post-988640-1
-04. [NodeSeek] Aaitr和bage都掉了？咋回事？
-    🔗 https://www.nodeseek.com/post-988639-1
-05. [NodeSeek] [Early Black Friday Sale] VPS & Dedicated Server Deals | Starting at Just €18/Year!
-    🔗 https://www.nodeseek.com/post-988638-1
-06. [NodeSeek] Vip Cloud  维护快3个小时了
-    🔗 https://www.nodeseek.com/post-988637-1
-07. [NodeSeek] Muse 白嫖3B
-    🔗 https://www.nodeseek.com/post-988636-1
-08. [NodeSeek] 看了一圈，3网优化正价能买到的好像搬瓦工49.9刀/3月还不错
-    🔗 https://www.nodeseek.com/post-988635-1
-09. [NodeSeek] 求推荐 便宜大盘鸡
-    🔗 https://www.nodeseek.com/post-988634-1
-10. [NodeSeek] 英国家宽有推荐的吗？
-    🔗 https://www.nodeseek.com/post-988633-1
-11. [NodeSeek] 【TQ】zouter老款HK
-    🔗 https://www.nodeseek.com/post-988632-1
-12. [NodeSeek] 【NQ】vps.taxi LA Premium
-    🔗 https://www.nodeseek.com/post-988631-1
-13. [NodeSeek] 【NQ】vps.taxi Tokyo SoftBank
-    🔗 https://www.nodeseek.com/post-988630-1
-14. [NodeSeek] 【NQ】酷网B
-    🔗 https://www.nodeseek.com/post-988629-1
-15. [NodeSeek] deepseek harness 手机版
-    🔗 https://www.nodeseek.com/post-988628-1
-16. [NodeSeek] 【出】VPS.TAXI LA 24$/Year
-    🔗 https://www.nodeseek.com/post-988627-1
-17. [NodeSeek] 美西落地机求推荐
-    🔗 https://www.nodeseek.com/post-988626-1
-18. [NodeSeek] 1
-    🔗 https://www.nodeseek.com/post-988625-1
-19. [NodeSeek] 【NQ+TQ】VMISS改名涨价后的HK.V3也就是HK.STD三网优选只测不评
-    🔗 https://www.nodeseek.com/post-988624-1
-20. [NodeSeek] 求助求助
-    🔗 https://www.nodeseek.com/post-988623-1
-21. [V2EX] 关于换新光猫后造成的 DNS 劫持
-    🔗 https://www.v2ex.com/t/1249499
-22. [V2EX] 低空飞行器来了, 人类进入低空飞行交通时代?
-    🔗 https://www.v2ex.com/t/1249498
-23. [V2EX] Muse 免费额度不够，求各位互助一下
-    🔗 https://www.v2ex.com/t/1249497
-24. [V2EX] REA 这么火，简单分享逆向开发游戏的源代码
-    🔗 https://www.v2ex.com/t/1249496
-25. [V2EX] 纸飞机也不是那么隐私啊
-    🔗 https://www.v2ex.com/t/1249495
-26. [V2EX] 有没有大佬帮看看简历啊， 3 年开发已经 4 个月一直找不到工作了。
-    🔗 https://www.v2ex.com/t/1249494
-27. [V2EX] gemini 学生账号 Pro 会员 ccswitch 报 429（配额超限）
-    🔗 https://www.v2ex.com/t/1249493
-28. [V2EX] 美区 id 使用礼品卡开通 gpt plus 一直付款失败 + Android Visa 开通和封号踩坑实录
-    🔗 https://www.v2ex.com/t/1249492
-29. [V2EX] applewatch 蓝牙控制 dji nano，实现双指捏合开始或结束录制
-    🔗 https://www.v2ex.com/t/1249491
-30. [V2EX] 分享一个 Python 音频转文字命令行工具，支持 Whisper 本地转录
-    🔗 https://www.v2ex.com/t/1249490
-31. [V2EX] 走走停停
-    🔗 https://www.v2ex.com/t/1249489
-32. [V2EX] 宝可梦塔防
-    🔗 https://www.v2ex.com/t/1249488
-33. [V2EX] mac mini m4 更换硬盘小板，有推荐的吗 ？
-    🔗 https://www.v2ex.com/t/1249487
-34. [LowEndTalk(EN)] I'm open sourcing my AI girlfriend
-    🔗 https://lowendtalk.com/discussion/222162/im-open-sourcing-my-ai-girlfriend
-35. [LowEndTalk(EN)] NolimitHost Budget Sale│Offers from €12.99/year! | NVMe KVM VPS | Freebie | DE
-    🔗 https://lowendtalk.com/discussion/222157/nolimithost-budget-sale-offers-from-12-99-year-nvme-kvm-vps-freebie-de
-36. [LowEndTalk(EN)] [Early Black Friday Sale] VPS & Dedicated Server Deals | Starting at Just €18/Year!
-    🔗 https://lowendtalk.com/discussion/222164/early-black-friday-sale-vps-dedicated-server-deals-starting-at-just-18-year
-37. [LowEndTalk(EN)] looking for old gpu servers
-    🔗 https://lowendtalk.com/discussion/222163/looking-for-old-gpu-servers
-38. [LowEndTalk(EN)] Soulsvm about
-    🔗 https://lowendtalk.com/discussion/222160/soulsvm-about
-39. [LowEndTalk(EN)] 6 Dedicated Servers Under $65 | Dual CPU | 1Gbps Unmetered | DDoS Protection Available
-    🔗 https://lowendtalk.com/discussion/219781/6-dedicated-servers-under-65-dual-cpu-1gbps-unmetered-ddos-protection-available
-40. [Lobste.rs] The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise
-    🔗 https://maevyn.codes/decoherence
-41. [Lobste.rs] Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD
-    🔗 https://calif.io/research/big-fish
-42. [Lobste.rs] Thirty Years of KDE
-    🔗 https://blog.cornelius-schumacher.de/2026/10/thirty-years-of-kde.html
+01. [NodeSeek] 最恐怖的图片，你敢打开看吗
+    🔗 https://www.nodeseek.com/post-988685-1
+02. [NodeSeek] 【krak 入金问题】
+    🔗 https://www.nodeseek.com/post-988684-1
+03. [NodeSeek] 【DAILY】在咸鱼被仅退款了 暂时损失5000+ 给大家提个醒好了
+    🔗 https://www.nodeseek.com/post-988683-1
+04. [NodeSeek] Hytron延迟怎么变高了
+    🔗 https://www.nodeseek.com/post-988682-1
+05. [NodeSeek] 【溢价收】收ShanDun HK Standard China Route 1T
+    🔗 https://www.nodeseek.com/post-988681-1
+06. [NodeSeek] 200元打包出zouter HK老款首发款香港/99年
+    🔗 https://www.nodeseek.com/post-988680-1
+07. [NodeSeek] 到底是谁把我的muse邀请码发给了BOT?
+    🔗 https://www.nodeseek.com/post-988679-1
+08. [NodeSeek] google pay支付时会看卡头吗，送🍗
+    🔗 https://www.nodeseek.com/post-988678-1
+09. [NodeSeek] 发现一个出海客户洞察神器
+    🔗 https://www.nodeseek.com/post-988677-1
+10. [NodeSeek] 收美区 team 码，溢价收辅导
+    🔗 https://www.nodeseek.com/post-988676-1
+11. [NodeSeek] 【信息】ServerHost 万圣节预热：Ryzen/i9 盲盒高频 VPS，2C2G/50G NVMe 不限流 $22.99/年
+    🔗 https://www.nodeseek.com/post-988675-1
+12. [NodeSeek] 凌晨翻看朋友圈真的羡慕他们
+    🔗 https://www.nodeseek.com/post-988674-1
+13. [NodeSeek] muse为什么无法连接facebook
+    🔗 https://www.nodeseek.com/post-988673-1
+14. [NodeSeek] xyz域名建议转移到cf吗?
+    🔗 https://www.nodeseek.com/post-988672-1
+15. [NodeSeek] 刚刚看了半天没吃明白geelinx的瓜
+    🔗 https://www.nodeseek.com/post-988671-1
+16. [NodeSeek] 合规获取海外地址证明的手段
+    🔗 https://www.nodeseek.com/post-988670-1
+17. [NodeSeek] 求一份  astroqore 大佬的 HaloCloud IX 脚本
+    🔗 https://www.nodeseek.com/post-988669-1
+18. [NodeSeek] 15R收team减席位优惠码
+    🔗 https://www.nodeseek.com/post-988668-1
+19. [NodeSeek] 115 网盘账户售卖 ( 666 元 )
+    🔗 https://www.nodeseek.com/post-988667-1
+20. [NodeSeek] [人找车]深港前海IX合租
+    🔗 https://www.nodeseek.com/post-988666-1
+21. [V2EX] 许个愿，开个开源软件的 windows 商店
+    🔗 https://www.v2ex.com/t/1249504
+22. [V2EX] SSD 到底能用几年？闪迪给了个公式，顺便说说服务器上怎么看盘快不快写坏了
+    🔗 https://www.v2ex.com/t/1249503
+23. [V2EX] 过敏性鼻炎怎样治疗？
+    🔗 https://www.v2ex.com/t/1249502
+24. [V2EX] 做了个 macOS 原生 Emby 观影助手： TMDB 搜索找片、片单浏览、入库核对与外部播放
+    🔗 https://www.v2ex.com/t/1249501
+25. [V2EX] 做了个 NFL 网页小游戏：比赛最后两分钟，换你来当主教练
+    🔗 https://www.v2ex.com/t/1249500
+26. [LowEndTalk(EN)] I have some questions since I'm new here!
+    🔗 https://lowendtalk.com/discussion/222167/i-have-some-questions-since-im-new-here
+27. [LowEndTalk(EN)] Looking for 3 Budget VPS in Different Locations (512MB–2GB RAM )
+    🔗 https://lowendtalk.com/discussion/222170/looking-for-3-budget-vps-in-different-locations-512mb-2gb-ram
+28. [LowEndTalk(EN)] Big RAM Servers | Raw Storage Monsters | and Dedicated Mac Minis | from $44.99
+    🔗 https://lowendtalk.com/discussion/222165/big-ram-servers-raw-storage-monsters-and-dedicated-mac-minis-from-44-99
+29. [LowEndTalk(EN)] ServerHost Ryzen/i9 VPS from $22.99/year - October Haunt
+    🔗 https://lowendtalk.com/discussion/222168/serverhost-ryzen-i9-vps-from-22-99-year-october-haunt
+30. [Lobste.rs] The NIST Elliptic Curves Seeds Bounty Has Been Claimed
+    🔗 https://words.filippo.io/seeds-solved/
+31. [Lobste.rs] Getting Canceled
+    🔗 https://www.youtube.com/watch?v=5zIOfBLQ3U4
+32. [Lobste.rs] Introducing GNOME OS Preview
+    🔗 https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/
+33. [Lobste.rs] We're sunsetting Codeberg Pages v2
+    🔗 https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html
+34. [Lobste.rs] There's never been a better time to go into math
+    🔗 https://www.youtube.com/watch?v=LKrwhjOI8Nc
+35. [Lobste.rs] Ubuntu 26.10 (Stonking Stingray) released
+    🔗 https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html
 =================================================================
