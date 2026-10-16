@@ -1,74 +1,94 @@
 =================================================================
-📡 【全域六维极客情报 快报】(2026-10-15 22:38:58)
-📊 本批次共捕获 33 篇新帖 (NodeSeek: 20篇, V2EX: 4篇, LowEndTalk(EN): 4篇, Lobste.rs: 4篇, GitHub: 1篇)
+📡 【全域六维极客情报 快报】(2026-10-16 00:48:33)
+📊 本批次共捕获 43 篇新帖 (NodeSeek: 20篇, V2EX: 8篇, LowEndTalk(EN): 1篇, Lobste.rs: 2篇, GitHub: 12篇)
 -----------------------------------------------------------------
 🧠 【核心动向速览】：🌐 英文全球特价主机与海外算力一手行情；🦞 全球邀请制底层系统架构与极客讨论；🐙 今日全球最火 GitHub 暴涨开源黑科技；🤖 AI商业车位招募与大模型落地风向；💻 国内云服务线路波动与二手转让
 -----------------------------------------------------------------
 📋 【最新抓取清单】：
-01. [NodeSeek] 【慢迅】尊界V800汽车刹车踏板支架断裂问题
-    🔗 https://www.nodeseek.com/post-986588-1
-02. [NodeSeek] 【把赚钱方式之一开源了】Lindyson AI Video Generator
-    🔗 https://www.nodeseek.com/post-986587-1
-03. [NodeSeek] NQ PPFlight LIFT S1
-    🔗 https://www.nodeseek.com/post-986586-1
-04. [NodeSeek] 收一张已激活的美国紫卡
-    🔗 https://www.nodeseek.com/post-986585-1
-05. [NodeSeek] locrdp 控制端已升级为只要有 Edge 或 Chrome，无需安装软件，即可连接 Windows 原生 RDP
-    🔗 https://www.nodeseek.com/post-986584-1
-06. [NodeSeek] 溢价20，收wawo Hk-Kvm-ipv6-C組 - HK-ipv6only-1G
-    🔗 https://www.nodeseek.com/post-986583-1
-07. [NodeSeek] 收2个Gmail 老号 价格15以内的
-    🔗 https://www.nodeseek.com/post-986582-1
-08. [NodeSeek] （不出了）出两台dedione的服务器看图
-    🔗 https://www.nodeseek.com/post-986581-1
-09. [NodeSeek] （已出）出个 vps.taxi 10刀年付 jp 软银
-    🔗 https://www.nodeseek.com/post-986580-1
-10. [NodeSeek] 【455出】VMR L3 35$/year 三网精品
-    🔗 https://www.nodeseek.com/post-986579-1
-11. [NodeSeek] 【收】T-Mobile 季付/年付0刀卡，带价私信
-    🔗 https://www.nodeseek.com/post-986578-1
-12. [NodeSeek] 收个移动快乐机
-    🔗 https://www.nodeseek.com/post-986577-1
-13. [NodeSeek] 【已收】80收个VPS.TAXI jp Mini $10/年
-    🔗 https://www.nodeseek.com/post-986576-1
-14. [NodeSeek] isvoro这登录验证码是我见到最司马的 什么沙币验证码
-    🔗 https://www.nodeseek.com/post-986575-1
-15. [NodeSeek] akko de掉线了
-    🔗 https://www.nodeseek.com/post-986574-1
-16. [NodeSeek] 「彻底搞定」 ChatGPT 网页端 Model not found 和 not loaded：从缓存假死、时区风控到 Mihomo 分流的排查指南
-    🔗 https://www.nodeseek.com/post-986573-1
-17. [NodeSeek] 【出】 wawo （Us-Kvm-ipv4-D組 ）到期2026-11-10 月付3.3元 流量1000G/月
-    🔗 https://www.nodeseek.com/post-986572-1
-18. [NodeSeek] 白嫖差不多快5个月的 gatewaysentry 说下感受吧
-    🔗 https://www.nodeseek.com/post-986571-1
-19. [NodeSeek] 【收】总价130收 VPS.TAXI 洛杉矶 LA $10/年付款
-    🔗 https://www.nodeseek.com/post-986570-1
-20. [NodeSeek] bero收不到了，zouter jpplus总有人出吧
-    🔗 https://www.nodeseek.com/post-986569-1
-21. [V2EX] [送终身 500 个] 大家好，分享一个自己开发的开源工具： YourKeep。
-    🔗 https://www.v2ex.com/t/1249197
-22. [V2EX] 英伟达自己的光模块文档里写着：链路故障 80% 是光接口脏了
-    🔗 https://www.v2ex.com/t/1249196
-23. [V2EX] Kling 4.0 局部编辑怎么验收：先分清客户要保留与修改的内容
-    🔗 https://www.v2ex.com/t/1249195
-24. [V2EX] 买它发了 Muse Spark Open
-    🔗 https://www.v2ex.com/t/1249194
-25. [LowEndTalk(EN)] [Request] India KVM VPS, 1 vCPU, 1 GB RAM, $10–12/year
-    🔗 https://lowendtalk.com/discussion/222129/request-india-kvm-vps-1-vcpu-1-gb-ram-10-12-year
-26. [LowEndTalk(EN)] Deluxhost: VPS unstable for weeks, no reply from support
-    🔗 https://lowendtalk.com/discussion/222126/deluxhost-vps-unstable-for-weeks-no-reply-from-support
-27. [LowEndTalk(EN)] vps for av1 encoding
-    🔗 https://lowendtalk.com/discussion/222127/vps-for-av1-encoding
-28. [LowEndTalk(EN)] [OVH] SYS-1 Xeon 2236 128GB DDR4 ECC 2x512 GB SSD NVMe
-    🔗 https://lowendtalk.com/discussion/222128/ovh-sys-1-xeon-2236-128gb-ddr4-ecc-2x512-gb-ssd-nvme
-29. [Lobste.rs] Forgejo v17.0 is available
-    🔗 https://forgejo.org/2026-10-release-v17-0/
-30. [Lobste.rs] About time
-    🔗 https://www.bipm.org/en/cgpm-2026/resolution-5
-31. [Lobste.rs] Gleam case exhaustiveness, as a fan
-    🔗 https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp
-32. [Lobste.rs] Religious Studies In Software Engineering
-    🔗 https://tombh.co.uk/religious-studies-in-software-engineering
-33. [GitHub] [GitHub Hot] sponsors/debpalash (今日新增 ⭐3,027): No description
+01. [NodeSeek] 准备用deepseek或者kimi
+    🔗 https://www.nodeseek.com/post-986660-1
+02. [NodeSeek] 2级是不是可以直接找人拼车了
+    🔗 https://www.nodeseek.com/post-986659-1
+03. [NodeSeek] 聊聊大家都用gemini Argo4做了哪些项目呀！
+    🔗 https://www.nodeseek.com/post-986658-1
+04. [NodeSeek] 请教一下，如果CLAUDE使用GMALI注册的，但GMAIL无法登录，CLAUDE是不是也没了？目前CALUDE还在登陆着
+    🔗 https://www.nodeseek.com/post-986657-1
+05. [NodeSeek] 有没有佬用过反重力中的gemini4？比codex配astra怎么样？
+    🔗 https://www.nodeseek.com/post-986656-1
+06. [NodeSeek] GPT昨天重置后，体感速度提升很大
+    🔗 https://www.nodeseek.com/post-986655-1
+07. [NodeSeek] Meta公司发布“美国最强”开放权重模型
+    🔗 https://www.nodeseek.com/post-986654-1
+08. [NodeSeek] 剩余价值出nobrand 小鸡
+    🔗 https://www.nodeseek.com/post-986653-1
+09. [NodeSeek] 400出 懒猫 HKG2 中杯 永久免费机 400G流量
+    🔗 https://www.nodeseek.com/post-986652-1
+10. [NodeSeek] 现在都不推荐使用v2，都在推荐使用小猫是为什么呢？
+    🔗 https://www.nodeseek.com/post-986651-1
+11. [NodeSeek] 不是，今天的论坛怎么这么卡，咋个情况
+    🔗 https://www.nodeseek.com/post-986650-1
+12. [NodeSeek] 这种节点有抓包到的可能性吗
+    🔗 https://www.nodeseek.com/post-986649-1
+13. [NodeSeek] 快讯-哈吉米可以在反重力里面使用Argo4了
+    🔗 https://www.nodeseek.com/post-986648-1
+14. [NodeSeek] 【收】ppflight GLOBAL S1 ，4刀一月
+    🔗 https://www.nodeseek.com/post-986647-1
+15. [NodeSeek] 【自测留档】CloudCone LA $14.99/y
+    🔗 https://www.nodeseek.com/post-986646-1
+16. [NodeSeek] ＋80收DMIT 的 LAX.AS3.Pro.TINY
+    🔗 https://www.nodeseek.com/post-986645-1
+17. [NodeSeek] paga钱包现在如何入金？
+    🔗 https://www.nodeseek.com/post-986644-1
+18. [NodeSeek] 反重力额度重置了，但JIO用户Argon还是不能用
+    🔗 https://www.nodeseek.com/post-986643-1
+19. [NodeSeek] VScode如何设置让Codex，Antigravity等插件免Tun模式直接使用？
+    🔗 https://www.nodeseek.com/post-986642-1
+20. [NodeSeek] 溢价收PPFLIGHT心碎创始人套餐
+    🔗 https://www.nodeseek.com/post-986641-1
+21. [V2EX] iPhone Duo 是买港版还是买国行 你怎么看？
+    🔗 https://www.v2ex.com/t/1249206
+22. [V2EX] 中午吃饭减肥控重的姿势
+    🔗 https://www.v2ex.com/t/1249205
+23. [V2EX] 社保贷
+    🔗 https://www.v2ex.com/t/1249204
+24. [V2EX] 看到一个新闻，有没有了解这是什么情况？
+    🔗 https://www.v2ex.com/t/1249203
+25. [V2EX] OpenAI 这个 MFA 关闭是不是就不会收到短信验证码了
+    🔗 https://www.v2ex.com/t/1249202
+26. [V2EX] 求推荐 2.5g 支持 PPPOE 硬件加速的光猫
+    🔗 https://www.v2ex.com/t/1249201
+27. [V2EX] 用 rea 重写一切，这次是 listary
+    🔗 https://www.v2ex.com/t/1249200
+28. [V2EX] 做了个开源 macOS 应用 Luti：让网页版 Claude / ChatGPT / Grok / Gemini / Muse 等通过 MCP 直接操作本地项目
+    🔗 https://www.v2ex.com/t/1249199
+29. [LowEndTalk(EN)] Another guest-to-host escape: "Pwnscape" (CVE-2026-99999, CVSS 9.3)
+    🔗 https://lowendtalk.com/discussion/222132/another-guest-to-host-escape-pwnscape-cve-2026-99999-cvss-9-3
+30. [Lobste.rs] Announcing Rust 1.99.1
+    🔗 https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/
+31. [Lobste.rs] Epic's EAC2 v2 seems fairly easily bypassable
+    🔗 https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/
+32. [GitHub] [GitHub Hot] morluto/rea (今日新增 ⭐32,314): No description
+    🔗 https://github.com/morluto/rea
+33. [GitHub] [GitHub Hot] anthropics/claude-plugins-official (今日新增 ⭐307): No description
+    🔗 https://github.com/anthropics/claude-plugins-official
+34. [GitHub] [GitHub Hot] K-Dense-AI/scientific-agent-skills (今日新增 ⭐1,091): No description
+    🔗 https://github.com/K-Dense-AI/scientific-agent-skills
+35. [GitHub] [GitHub Hot] sponsors/JuliusBrussee (今日新增 ⭐433): No description
+    🔗 https://github.com/sponsors/JuliusBrussee
+36. [GitHub] [GitHub Hot] sponsors/debpalash (今日新增 ⭐3,024): No description
     🔗 https://github.com/sponsors/debpalash
+37. [GitHub] [GitHub Hot] sponsors/obra (今日新增 ⭐582): No description
+    🔗 https://github.com/sponsors/obra
+38. [GitHub] [GitHub Hot] ruvnet/ruflo (今日新增 ⭐147): No description
+    🔗 https://github.com/ruvnet/ruflo
+39. [GitHub] [GitHub Hot] sponsors/mksglu (今日新增 ⭐904): No description
+    🔗 https://github.com/sponsors/mksglu
+40. [GitHub] [GitHub Hot] NationalSecurityAgency/ghidra (今日新增 ⭐1,369): No description
+    🔗 https://github.com/NationalSecurityAgency/ghidra
+41. [GitHub] [GitHub Hot] sponsors/affaan-m (今日新增 ⭐1,013): No description
+    🔗 https://github.com/sponsors/affaan-m
+42. [GitHub] [GitHub Hot] sponsors/lightseekorg (今日新增 ⭐30): No description
+    🔗 https://github.com/sponsors/lightseekorg
+43. [GitHub] [GitHub Hot] xerj-org/xerj (今日新增 ⭐715): No description
+    🔗 https://github.com/xerj-org/xerj
 =================================================================
