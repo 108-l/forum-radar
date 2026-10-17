@@ -1,78 +1,60 @@
 =================================================================
-📡 【全域六维极客情报 快报】(2026-10-17 18:44:41)
-📊 本批次共捕获 35 篇新帖 (NodeSeek: 20篇, V2EX: 10篇, LowEndTalk(EN): 2篇, Lobste.rs: 3篇)
+📡 【全域六维极客情报 快报】(2026-10-17 21:03:06)
+📊 本批次共捕获 26 篇新帖 (NodeSeek: 20篇, V2EX: 4篇, LowEndTalk(EN): 1篇, Lobste.rs: 1篇)
 -----------------------------------------------------------------
 🧠 【核心动向速览】：🌐 英文全球特价主机与海外算力一手行情；🦞 全球邀请制底层系统架构与极客讨论；🤖 AI商业车位招募与大模型落地风向；💻 国内云服务线路波动与二手转让
 -----------------------------------------------------------------
 📋 【最新抓取清单】：
-01. [NodeSeek] VMISS LA9929、OSA放货
-    🔗 https://www.nodeseek.com/post-990533-1
-02. [NodeSeek] 今晚 codex 速度还可以（大约50tok/s），可以勉强当 claude 廉价代餐了
-    🔗 https://www.nodeseek.com/post-990532-1
-03. [NodeSeek] 已出50出3张妙妙屋free
-    🔗 https://www.nodeseek.com/post-990531-1
-04. [NodeSeek] 试了一下，Saily 夸舔客服不行，就这样吧
-    🔗 https://www.nodeseek.com/post-990530-1
-05. [NodeSeek] 拼车用v.ps gen2的具体感受
-    🔗 https://www.nodeseek.com/post-990529-1
-06. [NodeSeek] 收非盈利母号，A和o一起的那种，域名的就给域名邮箱。
-    🔗 https://www.nodeseek.com/post-990528-1
-07. [NodeSeek] [NQ&TQ]CSTserver 德国法兰克福 CVM EX DEX2
-    🔗 https://www.nodeseek.com/post-990527-1
-08. [NodeSeek] 【NQ】aws 亚马逊新加坡留档 实际速度非常不错
-    🔗 https://www.nodeseek.com/post-990526-1
-09. [NodeSeek] 汇丰卡收到了，卡面上的8位数密码有啥用
-    🔗 https://www.nodeseek.com/post-990525-1
-10. [NodeSeek] dmit美西距说是最强的，除了dmit，其他美西有推荐吗？
-    🔗 https://www.nodeseek.com/post-990524-1
-11. [NodeSeek] 求推荐edge去广告插件。
-    🔗 https://www.nodeseek.com/post-990523-1
-12. [NodeSeek] 这么写，才不烧心
-    🔗 https://www.nodeseek.com/post-990521-1
-13. [NodeSeek] 【45收】wawo 27年付
-    🔗 https://www.nodeseek.com/post-990520-1
-14. [NodeSeek] 感觉看刘旭东比红果好看多了
-    🔗 https://www.nodeseek.com/post-990519-1
-15. [NodeSeek] fast的 6.1 sol max，能达到 85 t/s
-    🔗 https://www.nodeseek.com/post-990518-1
-16. [NodeSeek] 总价650出 Super IPLC SHJP IND 7CM KFC
-    🔗 https://www.nodeseek.com/post-990517-1
-17. [NodeSeek] 2233撬龟求助
-    🔗 https://www.nodeseek.com/post-990516-1
-18. [NodeSeek] 现在的NQ感觉都没啥参考价值了
-    🔗 https://www.nodeseek.com/post-990515-1
-19. [NodeSeek] 深夜送三个muse刷300B bot邀请的
-    🔗 https://www.nodeseek.com/post-990513-1
-20. [NodeSeek] 不久就要黑五了，请问各位兄弟，哪家的vps值得买？
-    🔗 https://www.nodeseek.com/post-990512-1
-21. [V2EX] tibo 发推了，还有额度的赶紧用，重置卡先留着
-    🔗 https://www.v2ex.com/t/1249683
-22. [V2EX] 为什么还有人宣场读书无用论？
-    🔗 https://www.v2ex.com/t/1249681
-23. [V2EX] 马斯克肯定没想到火的是 flying car ai 视频
-    🔗 https://www.v2ex.com/t/1249680
-24. [V2EX] 美国 mac 托管有需要的吗？
-    🔗 https://www.v2ex.com/t/1249677
-25. [V2EX] Project Moon Life：设定在 The City 的非官方人生模拟器
-    🔗 https://www.v2ex.com/t/1249676
-26. [V2EX] 申请收录 https://imba97.com
-    🔗 https://www.v2ex.com/t/1249675
-27. [V2EX] 肝了一周，把 Lovart 和 TapNow 的交互结合起来做了款产品
-    🔗 https://www.v2ex.com/t/1249674
-28. [V2EX] 🚀 DeepSeek V4.1 Flash-1017 上线正面硬刚 6.1sol ， luna 的价格， 6.1sol 的性能。回复送体验额度，欢迎 V 来偿。
-    🔗 https://www.v2ex.com/t/1249672
-29. [V2EX] DeepSeek-V4.1-Flash-1017 发布了，今晚我让它通宵写代码（Day 4）
-    🔗 https://www.v2ex.com/t/1249671
-30. [V2EX] 已入选 XERJ Corpus Hub, 这是软广吧...
-    🔗 https://www.v2ex.com/t/1249670
-31. [LowEndTalk(EN)] [Kansas City] BGP VPS $9.99/mo | Fully Automated BGP + IRR | 1Gbps | Tier 1 & Global IX Connectivity
-    🔗 https://lowendtalk.com/discussion/222201/kansas-city-bgp-vps-9-99-mo-fully-automated-bgp-irr-1gbps-tier-1-global-ix-connectivity
-32. [LowEndTalk(EN)] Which directadmin email providers are reliable here?
-    🔗 https://lowendtalk.com/discussion/221222/which-directadmin-email-providers-are-reliable-here
-33. [Lobste.rs] AI-First, Git-Compatible Source Control
-    🔗 https://strata.madskristiansen.com/
-34. [Lobste.rs] PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)
-    🔗 https://pwn.ai/blog/pwnescape
-35. [Lobste.rs] Principles of Anchor Engineering
-    🔗 https://nappingtoheavymetal.com/post/2026-09-15-principles-of-anchor-engineering/
+01. [NodeSeek] 发3个picix的邀请码
+    🔗 https://www.nodeseek.com/post-990588-1
+02. [NodeSeek] 规矩先立柱
+    🔗 https://www.nodeseek.com/post-990587-1
+03. [NodeSeek] gpt已重置
+    🔗 https://www.nodeseek.com/post-990585-1
+04. [NodeSeek] codex重置了？
+    🔗 https://www.nodeseek.com/post-990584-1
+05. [NodeSeek] 被Digitalfyre邮件轰炸了
+    🔗 https://www.nodeseek.com/post-990583-1
+06. [NodeSeek] codex接码平台求推荐，送🍗🍗🍗
+    🔗 https://www.nodeseek.com/post-990582-1
+07. [NodeSeek] 谁来收一下心碎家人云
+    🔗 https://www.nodeseek.com/post-990581-1
+08. [NodeSeek] (出)30出刚抢到vmiss的us.la.9929.basic
+    🔗 https://www.nodeseek.com/post-990579-1
+09. [NodeSeek] 我超威！签到你给我签好的啊！
+    🔗 https://www.nodeseek.com/post-990578-1
+10. [NodeSeek] 求推荐靠谱的美国 ISP / 国际线路商家
+    🔗 https://www.nodeseek.com/post-990577-1
+11. [NodeSeek] 商家常见4种招数小结
+    🔗 https://www.nodeseek.com/post-990576-1
+12. [NodeSeek] [出] 25包 PUSH 出个刚抢到的 VMISS US.LA.9929.Basic
+    🔗 https://www.nodeseek.com/post-990575-1
+13. [NodeSeek] 【NQ+TQ】大晚上放货的Vmiss US.LA.9929.Basic
+    🔗 https://www.nodeseek.com/post-990573-1
+14. [NodeSeek] DE9929想弃了
+    🔗 https://www.nodeseek.com/post-990572-1
+15. [NodeSeek] 20收team优惠码 量多的私我
+    🔗 https://www.nodeseek.com/post-990571-1
+16. [NodeSeek] NQ留档 光锥云 香港Light-B0.5 Plus-暑假快乐 移动爆炸
+    🔗 https://www.nodeseek.com/post-990570-1
+17. [NodeSeek] [NQ] VMISS LA.9929 Basic
+    🔗 https://www.nodeseek.com/post-990569-1
+18. [NodeSeek] TQ lightcone amd 618 a 这算大小包吗？幽默完了
+    🔗 https://www.nodeseek.com/post-990568-1
+19. [NodeSeek] 总价260出个digitalfyre9950x-8c8g
+    🔗 https://www.nodeseek.com/post-990567-1
+20. [NodeSeek] [NQ+TQ]isvoro JPBGP CN2GT+10099+CMI  ￥39.9/mo
+    🔗 https://www.nodeseek.com/post-990566-1
+21. [V2EX] 做了个 Roadster 网页游戏合集，已经整理了 21 款
+    🔗 https://www.v2ex.com/t/1249688
+22. [V2EX] 又重置了。
+    🔗 https://www.v2ex.com/t/1249687
+23. [V2EX] 求助：母亲被 6 人围殴打伤， 18 年后还能做什么？
+    🔗 https://www.v2ex.com/t/1249686
+24. [V2EX] 以解决 "Hello World" 问题为视角, 并把 C++ Modules 原生开发的项目结合起来, 制作了一个创意动画视频
+    🔗 https://www.v2ex.com/t/1249685
+25. [LowEndTalk(EN)] HOST-C, Chat, Updates, Stuff
+    🔗 https://lowendtalk.com/discussion/200698/host-c-chat-updates-stuff
+26. [Lobste.rs] Abolish AI! Manifesto
+    🔗 https://abolish-ai.net/abolish-ai-a-manifesto/
 =================================================================
