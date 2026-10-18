@@ -1,74 +1,58 @@
 =================================================================
-📡 【全域六维极客情报 快报】(2026-10-18 19:37:34)
-📊 本批次共捕获 33 篇新帖 (NodeSeek: 20篇, V2EX: 6篇, LowEndTalk(EN): 3篇, Lobste.rs: 4篇)
+📡 【全域六维极客情报 快报】(2026-10-18 21:55:17)
+📊 本批次共捕获 25 篇新帖 (NodeSeek: 20篇, V2EX: 1篇, LowEndTalk(EN): 2篇, Lobste.rs: 2篇)
 -----------------------------------------------------------------
-🧠 【核心动向速览】：🌐 英文全球特价主机与海外算力一手行情；🦞 全球邀请制底层系统架构与极客讨论；🤖 AI商业车位招募与大模型落地风向；💻 国内云服务线路波动与二手转让
+🧠 【核心动向速览】：🌐 英文全球特价主机与海外算力一手行情；🦞 全球邀请制底层系统架构与极客讨论；💻 国内云服务线路波动与二手转让
 -----------------------------------------------------------------
 📋 【最新抓取清单】：
-01. [NodeSeek] 求大佬推荐几个好点的机做入口·
-    🔗 https://www.nodeseek.com/post-992498-1
-02. [NodeSeek] [收] Joysol 香港优化  20.8￥月
-    🔗 https://www.nodeseek.com/post-992496-1
-03. [NodeSeek] Google的bug就没有不回收的
-    🔗 https://www.nodeseek.com/post-992495-1
-04. [NodeSeek] 为什么我是422天
-    🔗 https://www.nodeseek.com/post-992494-1
-05. [NodeSeek] 今晚的bug pro预计谷歌会不会收回？
-    🔗 https://www.nodeseek.com/post-992493-1
-06. [NodeSeek] google的8.99好几年，我的怎么是8.99每月
-    🔗 https://www.nodeseek.com/post-992492-1
-07. [NodeSeek] 剩余+60收一台VMISS CN.HK.INTL.Basic 14CAD
-    🔗 https://www.nodeseek.com/post-992491-1
-08. [NodeSeek] 送台机器 lowend.cloud 的 HK
-    🔗 https://www.nodeseek.com/post-992490-1
-09. [NodeSeek] 反重力可以用 Gemini 4 了。。有没有谁试用一下，会不会像以前那么舔狗？
-    🔗 https://www.nodeseek.com/post-992489-1
-10. [NodeSeek] [已出]Tamago.network HKT.NAT.500M.VPS.6免费机
-    🔗 https://www.nodeseek.com/post-992488-1
-11. [NodeSeek] 谷歌学生认证@sheeridverifier_bot 又报维护了
-    🔗 https://www.nodeseek.com/post-992487-1
-12. [NodeSeek] 已收 10r来个代充Gemini Pro Automation Bot 1刀的
-    🔗 https://www.nodeseek.com/post-992486-1
-13. [NodeSeek] 【NQ&TQ&SQ】JoysolData 香港优化B-TCS
-    🔗 https://www.nodeseek.com/post-992485-1
-14. [NodeSeek] 100收个 tamago.network HKT.NAT.500M.VPS.6 免费🐔
-    🔗 https://www.nodeseek.com/post-992484-1
-15. [NodeSeek] gemini pro 学生认证的话 一定记得用最近没有验证过gemini的卡
-    🔗 https://www.nodeseek.com/post-992483-1
-16. [NodeSeek] 卧槽成功了，google ai pro学生会员9刀可延期至29年，Antigravity解封Gemini 4 Argon
-    🔗 https://www.nodeseek.com/post-992482-1
-17. [NodeSeek] 撸谷歌 pro 的踩坑记录
-    🔗 https://www.nodeseek.com/post-992481-1
-18. [NodeSeek] 【请教】求佬们分享下适合香港ix前置的大厂主机
-    🔗 https://www.nodeseek.com/post-992480-1
-19. [NodeSeek] 国内手机号注册的tg，这样设置是不是就安全了？
-    🔗 https://www.nodeseek.com/post-992479-1
-20. [NodeSeek] 油管会员有什么用啊？除了去广告，感觉所有电影都要收费，没什么用啊。
-    🔗 https://www.nodeseek.com/post-992478-1
-21. [V2EX] 通过丢几个参考链接，让 grok bot 直接做了个 AI 导航站，大概十几轮对话，做完直接部署。
-    🔗 https://www.v2ex.com/t/1249847
-22. [V2EX] 你们的 tailscale in shadowrocket 还好吗，为啥我的总错误
-    🔗 https://www.v2ex.com/t/1249846
-23. [V2EX] Play Martin:No Filter Fighters
-    🔗 https://www.v2ex.com/t/1249845
-24. [V2EX] 分享一个开源项目 Agent8：让只有 Java 8 的 AIX / HP-UX / Solaris 继续当新版 Jenkins 的 agent
-    🔗 https://www.v2ex.com/t/1249844
-25. [V2EX] codex 邀请新用户各得 1000 额度，还有需要的吗，留下邮箱
-    🔗 https://www.v2ex.com/t/1249843
-26. [V2EX] Obsidian 开源了新的文本绘图库
-    🔗 https://www.v2ex.com/t/1249842
-27. [LowEndTalk(EN)] [WANTED] Hetzner Cloud Server on Legacy Pricing – EU Location Preferred
-    🔗 https://lowendtalk.com/discussion/222234/wanted-hetzner-cloud-server-on-legacy-pricing-eu-location-preferred
-28. [LowEndTalk(EN)] Looking to downgrade my current server to something more affordable & fitting to current needs
-    🔗 https://lowendtalk.com/discussion/222235/looking-to-downgrade-my-current-server-to-something-more-affordable-fitting-to-current-needs
-29. [LowEndTalk(EN)] Ryzen 9 5950X NVMe Shared Hosting | 8 GB | Unlimited Domains | Unmetered 1 Gbps | $12/y Recurring
-    🔗 https://lowendtalk.com/discussion/222238/ryzen-9-5950x-nvme-shared-hosting-8-gb-unlimited-domains-unmetered-1-gbps-12-y-recurring
-30. [Lobste.rs] Inside the Intel 8087 chip: floating-point addition and subtraction
-    🔗 https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html
-31. [Lobste.rs] Men in tech #YesAllMen
-    🔗 https://www.youtube.com/watch?v=WXL6K1lhvt0
-32. [Lobste.rs] QML for C & Zig
-    🔗 https://gist.github.com/rcalixte/d2de5c816fc1de3970cc501b5ae9706e
-33. [Lobste.rs] Outside the Scope of Our Support
-    🔗 https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/
+01. [NodeSeek] 正在跟谷歌客服聊天帮我找回jio，不会被干封号了吧
+    🔗 https://www.nodeseek.com/post-992525-1
+02. [NodeSeek] Google 会员续费成功
+    🔗 https://www.nodeseek.com/post-992524-1
+03. [NodeSeek] 标题：求一个 LinuxDo 邀请链接
+    🔗 https://www.nodeseek.com/post-992523-1
+04. [NodeSeek] 想要星星…为了一个汉堡回车键，做了个麦当劳现场拼餐的小玩具
+    🔗 https://www.nodeseek.com/post-992522-1
+05. [NodeSeek] 开源 纯WebDav播放器KPlayer[惭愧]
+    🔗 https://www.nodeseek.com/post-992521-1
+06. [NodeSeek] 真难绷，一个账号之前撸过学生pro
+    🔗 https://www.nodeseek.com/post-992520-1
+07. [NodeSeek] 谷谷歌歌学生会员续约成功
+    🔗 https://www.nodeseek.com/post-992519-1
+08. [NodeSeek] 新注册了一个MUSE，Token直接拉满310亿【附注册教程】
+    🔗 https://www.nodeseek.com/post-992518-1
+09. [NodeSeek] 开始犹豫了, 这个价
+    🔗 https://www.nodeseek.com/post-992517-1
+10. [NodeSeek] 车还在 ，钱冲多了  没有余额了  不要联系
+    🔗 https://www.nodeseek.com/post-992516-1
+11. [NodeSeek] 吐槽google的风控
+    🔗 https://www.nodeseek.com/post-992515-1
+12. [NodeSeek] 8.99的页面好像没了
+    🔗 https://www.nodeseek.com/post-992514-1
+13. [NodeSeek] 谷歌刚刚上车
+    🔗 https://www.nodeseek.com/post-992513-1
+14. [NodeSeek] 我这能毕业了吗
+    🔗 https://www.nodeseek.com/post-992512-1
+15. [NodeSeek] 今天我去探望了在重症监护室的奶奶
+    🔗 https://www.nodeseek.com/post-992511-1
+16. [NodeSeek] 实测依旧有效
+    🔗 https://www.nodeseek.com/post-992510-1
+17. [NodeSeek] 不是 你们怎么领到29年的   领到了：
+    🔗 https://www.nodeseek.com/post-992509-1
+18. [NodeSeek] 【已收】小红卡收5U
+    🔗 https://www.nodeseek.com/post-992508-1
+19. [NodeSeek] 你们的google认证机器人能用吗，为什么我一直显示在维护
+    🔗 https://www.nodeseek.com/post-992507-1
+20. [NodeSeek] 拍大腿了 领少一年gemini
+    🔗 https://www.nodeseek.com/post-992506-1
+21. [V2EX] 有什么适合送给十岁左右男孩子的礼物
+    🔗 https://www.v2ex.com/t/1249848
+22. [LowEndTalk(EN)] DataPasa - Germany KVM VPS | 1GB RAM from $1.79/mo | LET10 coupon
+    🔗 https://lowendtalk.com/discussion/217425/datapasa-germany-kvm-vps-1gb-ram-from-1-79-mo-let10-coupon
+23. [LowEndTalk(EN)] Melbicom - absolutely terrible experience (KVM1, Vilnius)
+    🔗 https://lowendtalk.com/discussion/222239/melbicom-absolutely-terrible-experience-kvm1-vilnius
+24. [Lobste.rs] How Discover-Tech turned targeted ads into a pipeline for zero-click spywares
+    🔗 https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/
+25. [Lobste.rs] Real-time Software On Linux: How Hard Can It Be?
+    🔗 https://www.youtube.com/watch?v=-0D0rFdU6HY
 =================================================================
