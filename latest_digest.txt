@@ -1,74 +1,92 @@
 =================================================================
-📡 【全域六维极客情报 快报】(2026-10-22 21:39:39)
-📊 本批次共捕获 33 篇新帖 (NodeSeek: 20篇, V2EX: 6篇, LowEndTalk(EN): 3篇, Habr(RU): 1篇, Lobste.rs: 3篇)
+📡 【全域六维极客情报 快报】(2026-10-23 00:11:59)
+📊 本批次共捕获 42 篇新帖 (NodeSeek: 20篇, V2EX: 8篇, LowEndTalk(EN): 3篇, Lobste.rs: 2篇, GitHub: 9篇)
 -----------------------------------------------------------------
-🧠 【核心动向速览】：🌐 英文全球特价主机与海外算力一手行情；🇷🇺 俄区底层流量混淆、Telegram逆向与安全对抗；🦞 全球邀请制底层系统架构与极客讨论；🤖 AI商业车位招募与大模型落地风向；💻 国内云服务线路波动与二手转让
+🧠 【核心动向速览】：🌐 英文全球特价主机与海外算力一手行情；🦞 全球邀请制底层系统架构与极客讨论；🐙 今日全球最火 GitHub 暴涨开源黑科技；🤖 AI商业车位招募与大模型落地风向；💻 国内云服务线路波动与二手转让
 -----------------------------------------------------------------
 📋 【最新抓取清单】：
-01. [NodeSeek] 你们觉得剁椒鱼头怎么样？
-    🔗 https://www.nodeseek.com/post-1002626-1
-02. [NodeSeek] 请问Workbuddy用什么反代比较好呢
-    🔗 https://www.nodeseek.com/post-1002625-1
-03. [NodeSeek] 请问国际版的workbuddy免费活动只到这个月底吗
-    🔗 https://www.nodeseek.com/post-1002624-1
-04. [NodeSeek] 腾讯游戏删除后,ace进程还在电脑里运行
-    🔗 https://www.nodeseek.com/post-1002623-1
-05. [NodeSeek] 币安现在一个号 40 刀利润
-    🔗 https://www.nodeseek.com/post-1002622-1
-06. [NodeSeek] Claude订阅赠送的api，接入sub2api能用官方客户端吗
-    🔗 https://www.nodeseek.com/post-1002621-1
-07. [NodeSeek] 早上起来，codex又重置了
-    🔗 https://www.nodeseek.com/post-1002620-1
-08. [NodeSeek] 果然akko不是送中就是在送中的路上
-    🔗 https://www.nodeseek.com/post-1002619-1
-09. [NodeSeek] 已经有了
-    🔗 https://www.nodeseek.com/post-1002618-1
-10. [NodeSeek] 懒猫SG StarHub家宽五折券
-    🔗 https://www.nodeseek.com/post-1002617-1
-11. [NodeSeek] pixel掉的去开jio
-    🔗 https://www.nodeseek.com/post-1002616-1
-12. [NodeSeek] 关于宝塔PHP修复补丁，2个疑问希望官方能进来解答下
-    🔗 https://www.nodeseek.com/post-1002615-1
-13. [NodeSeek] 【测评】AkkoCloud 圣何塞 CN2 GIA A2 mini ¥449/年，TQ 实测 93 测点全零丢包
-    🔗 https://www.nodeseek.com/post-1002614-1
-14. [NodeSeek] 撸了币安PTAH 22刀羊毛
-    🔗 https://www.nodeseek.com/post-1002613-1
-15. [NodeSeek] 为什么一到这个点就有撕B贴冒出来🤔
-    🔗 https://www.nodeseek.com/post-1002612-1
-16. [NodeSeek] N26大逃杀，下一个是Wise
-    🔗 https://www.nodeseek.com/post-1002611-1
-17. [NodeSeek] 【已出】99r push出netcup 老1o 11月25日到期
-    🔗 https://www.nodeseek.com/post-1002610-1
-18. [NodeSeek] 想收个联通或者移动的香港机，jp机  另外收个移动的入口
-    🔗 https://www.nodeseek.com/post-1002609-1
-19. [NodeSeek] 我的gemini也被杀了
-    🔗 https://www.nodeseek.com/post-1002607-1
-20. [NodeSeek] 勇敢说出来
-    🔗 https://www.nodeseek.com/post-1002606-1
-21. [V2EX] 在小红书推广了几次自己的围棋 App，发现国区用户其实愿意付费
-    🔗 https://www.v2ex.com/t/1251095
-22. [V2EX] 帮我一位 27 岁朋友发一条求网友给职业规划的帖子
-    🔗 https://www.v2ex.com/t/1251094
-23. [V2EX] 以为自己迟早要走上买码注册的道路，结果发现几年前就有账号
-    🔗 https://www.v2ex.com/t/1251092
-24. [V2EX] Vibe Coding 一段时间后变得很懒
-    🔗 https://www.v2ex.com/t/1251091
-25. [V2EX] 疑似心梗与心脏骤停：普通人的现场应对操作手册 v1.3
-    🔗 https://www.v2ex.com/t/1251090
-26. [V2EX] 上海联通，突然上不了网说设备不在线
-    🔗 https://www.v2ex.com/t/1251089
-27. [LowEndTalk(EN)] Very stable, long term, small vps at a reasonable cost?
-    🔗 https://lowendtalk.com/discussion/222405/very-stable-long-term-small-vps-at-a-reasonable-cost
-28. [LowEndTalk(EN)] Understand what good prices are for VPS and shared hosting
-    🔗 https://lowendtalk.com/discussion/222408/understand-what-good-prices-are-for-vps-and-shared-hosting
-29. [LowEndTalk(EN)] [WTB] Affordable VPS in UAE (Dubai) or Turkey - Hourly/Monthly
-    🔗 https://lowendtalk.com/discussion/222406/wtb-affordable-vps-in-uae-dubai-or-turkey-hourly-monthly
-30. [Habr(RU)] Как мы научили ИИ-агента не выдумывать цифры в отчётах
-    🔗 https://habr.com/ru/articles/1098124/
-31. [Lobste.rs] Docker is weird
-    🔗 https://codeandcake.dev/posts/2026-10-22-docker-is-weird
-32. [Lobste.rs] Quad9 DNS Resolver to exit France
-    🔗 https://quad9.net/news/blog/au-revoir-france/
-33. [Lobste.rs] What is your opinion on submission quality since the `vibecoding` tag was removed?
-    🔗 https://lobste.rs/s/nmurnh/what_is_your_opinion_on_submission
+01. [NodeSeek] 恩比德实在是太坑
+    🔗 https://www.nodeseek.com/post-1002676-1
+02. [NodeSeek] 3hk漫游ai分流只针对gpt claude并未分流貌似
+    🔗 https://www.nodeseek.com/post-1002675-1
+03. [NodeSeek] Claude ai封号日益严重
+    🔗 https://www.nodeseek.com/post-1002674-1
+04. [NodeSeek] 多个gpt账号要不同的家宽属性ip 大家都用的什么机器？
+    🔗 https://www.nodeseek.com/post-1002673-1
+05. [NodeSeek] [TQ] bero 89o
+    🔗 https://www.nodeseek.com/post-1002672-1
+06. [NodeSeek] Akile澳门9.9月付失联了
+    🔗 https://www.nodeseek.com/post-1002671-1
+07. [NodeSeek] [晚高峰TQ] JTTI JP Lightweight Cloud Server CN Optimized 1c1g 50gSSD 1000G@200Mbps 超额1Mbps 35$/y≈233r
+    🔗 https://www.nodeseek.com/post-1002670-1
+08. [NodeSeek] 好奇，为什么拼车奈飞的不能 tv 端？
+    🔗 https://www.nodeseek.com/post-1002669-1
+09. [NodeSeek] 我国每个家庭平均拥有手机 2.5 部
+    🔗 https://www.nodeseek.com/post-1002668-1
+10. [NodeSeek] 这个币安Agentic ID怎么样
+    🔗 https://www.nodeseek.com/post-1002667-1
+11. [NodeSeek] [NQ性能测试] 早晚bero 89o性能测试对比
+    🔗 https://www.nodeseek.com/post-1002666-1
+12. [NodeSeek] 运维的有福享了，多个 Linux 内核漏洞被误公开
+    🔗 https://www.nodeseek.com/post-1002665-1
+13. [NodeSeek] Node.js发布补丁，修复“远程执行代码”漏洞
+    🔗 https://www.nodeseek.com/post-1002664-1
+14. [NodeSeek] 吃一下某不可说人的瓜
+    🔗 https://www.nodeseek.com/post-1002663-1
+15. [NodeSeek] 关于我为什么选择 Go 作为主力开发语言
+    🔗 https://www.nodeseek.com/post-1002662-1
+16. [NodeSeek] 奈飞 netflix 长期老车补人 40r/季
+    🔗 https://www.nodeseek.com/post-1002661-1
+17. [NodeSeek] 收一个能用claude的aws号
+    🔗 https://www.nodeseek.com/post-1002659-1
+18. [NodeSeek] 感谢cctv
+    🔗 https://www.nodeseek.com/post-1002658-1
+19. [NodeSeek] cc是我用过除了家人云外最垃圾的鸡了
+    🔗 https://www.nodeseek.com/post-1002657-1
+20. [NodeSeek] 华为开发者任务中心又消失了好几个任务了
+    🔗 https://www.nodeseek.com/post-1002656-1
+21. [V2EX] 周五 Huiai 优惠日，代充 ChatGPT Plus/Pro 特惠，¥128 起。
+    🔗 https://www.v2ex.com/t/1251104
+22. [V2EX] claude 被封日记…
+    🔗 https://www.v2ex.com/t/1251103
+23. [V2EX] [开源自荐] Linkit：本地优先的 AI 书签管理器，自动摘要 + 语义搜索 #01
+    🔗 https://www.v2ex.com/t/1251102
+24. [V2EX] c2c 入金失败，对方退钱过后几天，被通知对方申请误转退还，有诈吗
+    🔗 https://www.v2ex.com/t/1251101
+25. [V2EX] [开源自荐] Linkit：本地优先的 AI 书签管理器，自动摘要 + 语义搜索 #19
+    🔗 https://www.v2ex.com/t/1251100
+26. [V2EX] [开源自荐] Linkit：本地优先的 AI 书签管理器，自动摘要 + 语义搜索 + 知识图谱
+    🔗 https://www.v2ex.com/t/1251098
+27. [V2EX] Vim Keys (Firefox addon)
+    🔗 https://www.v2ex.com/t/1251097
+28. [V2EX] [开源自荐] Linkit：本地优先的 AI 书签管理器，自动摘要 + 语义搜索
+    🔗 https://www.v2ex.com/t/1251096
+29. [LowEndTalk(EN)] [WTB] 32GB RAM, 512GB NVMe, 10Gbps Port (VPS / VDS / Dedic)
+    🔗 https://lowendtalk.com/discussion/222414/wtb-32gb-ram-512gb-nvme-10gbps-port-vps-vds-dedic
+30. [LowEndTalk(EN)] Looking for dedicated server, offsite node for OpenNebula cluster (USA)
+    🔗 https://lowendtalk.com/discussion/222413/looking-for-dedicated-server-offsite-node-for-opennebula-cluster-usa
+31. [LowEndTalk(EN)] node2shell
+    🔗 https://lowendtalk.com/discussion/222410/node2shell
+32. [Lobste.rs] a hacky fucked up way to portably access errno from outside of c
+    🔗 https://sebsite.pw/w/20260925-errno.html
+33. [Lobste.rs] We have Traits at Home
+    🔗 https://www.axelmagn.com/blog/202610-zig-traits/
+34. [GitHub] [GitHub Hot] php/php-src (今日新增 ⭐287): No description
+    🔗 https://github.com/php/php-src
+35. [GitHub] [GitHub Hot] anthropics/knowledge-work-plugins (今日新增 ⭐303): No description
+    🔗 https://github.com/anthropics/knowledge-work-plugins
+36. [GitHub] [GitHub Hot] sponsors/DietrichGebert (今日新增 ⭐1,948): No description
+    🔗 https://github.com/sponsors/DietrichGebert
+37. [GitHub] [GitHub Hot] cloudflare/security-audit-skill (今日新增 ⭐2,979): No description
+    🔗 https://github.com/cloudflare/security-audit-skill
+38. [GitHub] [GitHub Hot] Graphify-Labs/graphify (今日新增 ⭐1,408): No description
+    🔗 https://github.com/Graphify-Labs/graphify
+39. [GitHub] [GitHub Hot] sponsors/supabase (今日新增 ⭐693): No description
+    🔗 https://github.com/sponsors/supabase
+40. [GitHub] [GitHub Hot] fastapi/fastapi (今日新增 ⭐101): No description
+    🔗 https://github.com/fastapi/fastapi
+41. [GitHub] [GitHub Hot] sponsors/luongnv89 (今日新增 ⭐177): No description
+    🔗 https://github.com/sponsors/luongnv89
+42. [GitHub] [GitHub Hot] Meloong-Git/PCL (今日新增 ⭐119): No description
+    🔗 https://github.com/Meloong-Git/PCL
 =================================================================
