@@ -1,62 +1,40 @@
 =================================================================
-📡 【全域六维极客情报 快报】(2026-10-24 19:42:21)
-📊 本批次共捕获 27 篇新帖 (NodeSeek: 20篇, V2EX: 2篇, LowEndTalk(EN): 3篇, Habr(RU): 1篇, Lobste.rs: 1篇)
+📡 【全域六维极客情报 快报】(2026-10-24 21:57:42)
+📊 本批次共捕获 16 篇新帖 (NodeSeek: 11篇, V2EX: 3篇, LowEndTalk(EN): 1篇, Habr(RU): 1篇)
 -----------------------------------------------------------------
-🧠 【核心动向速览】：🌐 英文全球特价主机与海外算力一手行情；🇷🇺 俄区底层流量混淆、Telegram逆向与安全对抗；🦞 全球邀请制底层系统架构与极客讨论；🤖 AI商业车位招募与大模型落地风向；💻 国内云服务线路波动与二手转让
+🧠 【核心动向速览】：🌐 英文全球特价主机与海外算力一手行情；🇷🇺 俄区底层流量混淆、Telegram逆向与安全对抗；🤖 AI商业车位招募与大模型落地风向；💻 国内云服务线路波动与二手转让
 -----------------------------------------------------------------
 📋 【最新抓取清单】：
-01. [NodeSeek] 出 OVH SYS-1 硬盘中奖翻倍
-    🔗 https://www.nodeseek.com/post-1006794-1
-02. [NodeSeek] 买了个域名，不知道干啥
-    🔗 https://www.nodeseek.com/post-1006793-1
-03. [NodeSeek] 收Hkcloudx-MiniV6 3000T 5刀鸡
-    🔗 https://www.nodeseek.com/post-1006792-1
-04. [NodeSeek] [TQ留档]Zouter_HK BGP Global - Standard - Debut 129年付 2T@1Gbps
-    🔗 https://www.nodeseek.com/post-1006791-1
-05. [NodeSeek] Thariq Shihipar离职了
-    🔗 https://www.nodeseek.com/post-1006790-1
-06. [NodeSeek] 出 YT.NET IX-NAT-B 349.2/年 绝版机
-    🔗 https://www.nodeseek.com/post-1006789-1
-07. [NodeSeek] 快讯，Vmiss LA.CN2.Core补货1台
-    🔗 https://www.nodeseek.com/post-1006788-1
-08. [NodeSeek] claude是不是额度削了
-    🔗 https://www.nodeseek.com/post-1006787-1
-09. [NodeSeek] 【出】Hetzner 德国 FSN 独服 i7-7700 / 64G / 2×512G NVMe / €30.54 月付（2024 年老套餐）
-    🔗 https://www.nodeseek.com/post-1006786-1
-10. [NodeSeek] 大半夜的饿了忍不住打开闪购点了外卖
-    🔗 https://www.nodeseek.com/post-1006785-1
-11. [NodeSeek] ⭐⭐⭐【抽奖】一个临期美国ISP ⭐⭐⭐
-    🔗 https://www.nodeseek.com/post-1006784-1
-12. [NodeSeek] 【求助贴】关于手机卡副卡问题
-    🔗 https://www.nodeseek.com/post-1006783-1
-13. [NodeSeek] 想买个电信入口  有推荐的商家么  流量计费或者带宽计费都行 最好是有活动的，可走aff  谢谢老哥们
-    🔗 https://www.nodeseek.com/post-1006782-1
-14. [NodeSeek] [收]利群主机 首发上海9929/cn2双出口 200季付 2T流量特别款
-    🔗 https://www.nodeseek.com/post-1006781-1
-15. [NodeSeek] [NQ留档]Zouter_HK BGP Global - Standard - Debut 129年付 2T@1Gbps
-    🔗 https://www.nodeseek.com/post-1006780-1
-16. [NodeSeek] 服务器被黑了怎么办，不想重装
-    🔗 https://www.nodeseek.com/post-1006779-1
-17. [NodeSeek] 【快讯】HKCLOUDX 群内一大佬，一次性拿下294台刚上的IPV6鸡 月付0.6U/年付6U
-    🔗 https://www.nodeseek.com/post-1006778-1
-18. [NodeSeek] 【NQ+TQ留档】XXX Japan Tokyo GLBB 静态家宽 INTEL XEON SILVER
-    🔗 https://www.nodeseek.com/post-1006777-1
-19. [NodeSeek] 不敢想象27号这个域名可拍之后会叫到多高
-    🔗 https://www.nodeseek.com/post-1006776-1
-20. [NodeSeek] 这个点claude是不是用更多额度？
-    🔗 https://www.nodeseek.com/post-1006775-1
-21. [V2EX] 我写了个自认为非常牛逼的浏览器插件: StackPrism
-    🔗 https://www.v2ex.com/t/1251585
-22. [V2EX] 理了一下马斯克和英特尔的公开信息： Terafab + 14A，目前只有「总体框架」，没那么铁
-    🔗 https://www.v2ex.com/t/1251584
-23. [LowEndTalk(EN)] Need VPS in EU, US & ASIA
-    🔗 https://lowendtalk.com/discussion/222472/need-vps-in-eu-us-asia
-24. [LowEndTalk(EN)] BGP session on OVH
-    🔗 https://lowendtalk.com/discussion/222470/bgp-session-on-ovh
-25. [LowEndTalk(EN)] KS-1-B | 2 x 4TB | Paid till 14th Feb 2028
-    🔗 https://lowendtalk.com/discussion/222471/ks-1-b-2-x-4tb-paid-till-14th-feb-2028
-26. [Habr(RU)] Aroshka Cloud, часть четвёртая: «SOC 24/7», видеокарты H200 и поддержка по шаблонам
-    🔗 https://habr.com/ru/articles/1098944/
-27. [Lobste.rs] Balloting has completed for C++26. Unfortunately it was Disapproved/
-    🔗 https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL
+01. [NodeSeek] T-Mobile转3刀后收短信都要钱
+    🔗 https://www.nodeseek.com/post-1006806-1
+02. [NodeSeek] 现在对别人越来越冷漠
+    🔗 https://www.nodeseek.com/post-1006805-1
+03. [NodeSeek] 今天有没有还在加班的
+    🔗 https://www.nodeseek.com/post-1006804-1
+04. [NodeSeek] 肉身在海外的华人用中文和Claude交流会被封吗
+    🔗 https://www.nodeseek.com/post-1006802-1
+05. [NodeSeek] 【NQ】家宽 NovixLink LAS-COX Lite （新版）
+    🔗 https://www.nodeseek.com/post-1006801-1
+06. [NodeSeek] muse邀请码 附带机器人刷邀请
+    🔗 https://www.nodeseek.com/post-1006800-1
+07. [NodeSeek] 诺联都是怎么抢购的啊，收到tg推送就没货了
+    🔗 https://www.nodeseek.com/post-1006799-1
+08. [NodeSeek] 腾讯云2核2g20m99一年
+    🔗 https://www.nodeseek.com/post-1006798-1
+09. [NodeSeek] 溢价100 收JTTI HK 200M独享 马上双11 黑五 但是我不想等
+    🔗 https://www.nodeseek.com/post-1006797-1
+10. [NodeSeek] [PayPal] 说说你们的保号焚诀
+    🔗 https://www.nodeseek.com/post-1006796-1
+11. [NodeSeek] 还有卖阿里广州ecs+hk ecs的吗
+    🔗 https://www.nodeseek.com/post-1006795-1
+12. [V2EX] 分享一个用 Rust 写的开源 2D CAD： CADCraft
+    🔗 https://www.v2ex.com/t/1251588
+13. [V2EX] 谈谈我的每月 20 美元 AI 工具搭配策略：为什么我停掉了官方 Claude Pro 订阅
+    🔗 https://www.v2ex.com/t/1251587
+14. [V2EX] team codex 额度 vs GPT PLUS 额度如何？
+    🔗 https://www.v2ex.com/t/1251586
+15. [LowEndTalk(EN)] SparkyOS based on ARCH and running on an USB Flash Drive
+    🔗 https://lowendtalk.com/discussion/222473/sparkyos-based-on-arch-and-running-on-an-usb-flash-drive
+16. [Habr(RU)] Безопасность Apple Mobile Devices. Часть III. Что происходит после нажатия Power
+    🔗 https://habr.com/ru/articles/1098952/
 =================================================================
