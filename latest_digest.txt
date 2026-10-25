@@ -1,76 +1,104 @@
 =================================================================
-📡 【全域六维极客情报 快报】(2026-10-25 00:13:26)
-📊 本批次共捕获 34 篇新帖 (NodeSeek: 20篇, LowEndTalk(EN): 1篇, Lobste.rs: 3篇, GitHub: 10篇)
+📡 【全域六维极客情报 快报】(2026-10-25 04:54:57)
+📊 本批次共捕获 48 篇新帖 (NodeSeek: 20篇, V2EX: 23篇, LowEndTalk(EN): 4篇, Lobste.rs: 1篇)
 -----------------------------------------------------------------
-🧠 【核心动向速览】：🌐 英文全球特价主机与海外算力一手行情；🦞 全球邀请制底层系统架构与极客讨论；🐙 今日全球最火 GitHub 暴涨开源黑科技；💻 国内云服务线路波动与二手转让
+🧠 【核心动向速览】：🌐 英文全球特价主机与海外算力一手行情；🦞 全球邀请制底层系统架构与极客讨论；🤖 AI商业车位招募与大模型落地风向；💻 国内云服务线路波动与二手转让
 -----------------------------------------------------------------
 📋 【最新抓取清单】：
-01. [NodeSeek] v.ps小秘书流量统计好假
-    🔗 https://www.nodeseek.com/post-1006835-1
-02. [NodeSeek] AWS积分一年有效期
-    🔗 https://www.nodeseek.com/post-1006834-1
-03. [NodeSeek] 115出永久会员115T空间？价格2399
-    🔗 https://www.nodeseek.com/post-1006833-1
-04. [NodeSeek] 出 多邻国外语super 12个月会员
-    🔗 https://www.nodeseek.com/post-1006832-1
-05. [NodeSeek] today，muse
-    🔗 https://www.nodeseek.com/post-1006831-1
-06. [NodeSeek] 求助：龟壳，aws的光帆
-    🔗 https://www.nodeseek.com/post-1006830-1
-07. [NodeSeek] 溢价200出机器(KS-2硬盘中奖)
-    🔗 https://www.nodeseek.com/post-1006829-1
-08. [NodeSeek] 黑五必蹲6家大厂VPS 清单 + 监控关键词 + TG 渠道
-    🔗 https://www.nodeseek.com/post-1006828-1
-09. [NodeSeek] [NQ测试留档] Datawave-新加坡 Lite(新加坡 A1)
-    🔗 https://www.nodeseek.com/post-1006827-1
-10. [NodeSeek] TOTHOST值得购买吗，今天60% OFF
-    🔗 https://www.nodeseek.com/post-1006826-1
-11. [NodeSeek] https://www.onamae.com/，这家域名注册商咋样
-    🔗 https://www.nodeseek.com/post-1006824-1
-12. [NodeSeek] 【亏55出】骨折价出PremiumKVMSale-EPYCJP-1(Softbank),$25.00/年
-    🔗 https://www.nodeseek.com/post-1006823-1
-13. [NodeSeek] 【NQ】PPFlight GLOBAL S（创始人套餐）1c1g 20g 1000m 3T 20$/year
-    🔗 https://www.nodeseek.com/post-1006822-1
-14. [NodeSeek] 微软邮箱推荐
-    🔗 https://www.nodeseek.com/post-1006821-1
-15. [NodeSeek] 好像被盯上了，real回落攻击怎么防御？
-    🔗 https://www.nodeseek.com/post-1006820-1
-16. [NodeSeek] 出两个域名，看中的代价私聊
-    🔗 https://www.nodeseek.com/post-1006819-1
-17. [NodeSeek] 【NQ】PPFlight LIFT M（创始人套餐）1c2g 20g 350m 1.2T 55$/year
-    🔗 https://www.nodeseek.com/post-1006818-1
-18. [NodeSeek] 体验了一天firefox之后……
-    🔗 https://www.nodeseek.com/post-1006817-1
-19. [NodeSeek] 【TQ】VMISS US.LA.TRI.Basic
-    🔗 https://www.nodeseek.com/post-1006815-1
-20. [NodeSeek] 出6台绝版台湾原生IP-每个月11块
-    🔗 https://www.nodeseek.com/post-1006814-1
-21. [LowEndTalk(EN)] Caliber Node | Halloween Sale — 7 Days of Cloud Apps, VPS & BYOH Deals + $200 Giveaway!
-    🔗 https://lowendtalk.com/discussion/222474/caliber-node-halloween-sale-7-days-of-cloud-apps-vps-byoh-deals-200-giveaway
-22. [Lobste.rs] Scrawl: show an agent the problem
-    🔗 https://scrawl.kitlangton.com/
-23. [Lobste.rs] We should be more ambitious with the software we build
-    🔗 https://danluu.com/ambitious/
-24. [Lobste.rs] SIMD and Go
-    🔗 https://internals-for-interns.com/posts/go-simd/
-25. [GitHub] [GitHub Hot] cloudflare/security-audit-skill (今日新增 ⭐2,264): No description
-    🔗 https://github.com/cloudflare/security-audit-skill
-26. [GitHub] [GitHub Hot] NVIDIA/OpenShell (今日新增 ⭐896): No description
-    🔗 https://github.com/NVIDIA/OpenShell
-27. [GitHub] [GitHub Hot] aws/agent-toolkit-for-aws (今日新增 ⭐13): No description
-    🔗 https://github.com/aws/agent-toolkit-for-aws
-28. [GitHub] [GitHub Hot] Nutlope/hallmark (今日新增 ⭐455): No description
-    🔗 https://github.com/Nutlope/hallmark
-29. [GitHub] [GitHub Hot] sponsors/luongnv89 (今日新增 ⭐392): No description
-    🔗 https://github.com/sponsors/luongnv89
-30. [GitHub] [GitHub Hot] pbakaus/impeccable (今日新增 ⭐619): No description
-    🔗 https://github.com/pbakaus/impeccable
-31. [GitHub] [GitHub Hot] pollen-robotics/microduck (今日新增 ⭐319): No description
-    🔗 https://github.com/pollen-robotics/microduck
-32. [GitHub] [GitHub Hot] google-gemini/gemini-cli (今日新增 ⭐44): No description
-    🔗 https://github.com/google-gemini/gemini-cli
-33. [GitHub] [GitHub Hot] jbiaojerry/ebook-treasure-chest (今日新增 ⭐227): No description
-    🔗 https://github.com/jbiaojerry/ebook-treasure-chest
-34. [GitHub] [GitHub Hot] makecindy/cindy (今日新增 ⭐477): No description
-    🔗 https://github.com/makecindy/cindy
+01. [NodeSeek] 公网ip越来越难搞了
+    🔗 https://www.nodeseek.com/post-1007271-1
+02. [NodeSeek] 【摸鱼好物】捏住舌头学说话！人类声道物理声学仿真，Pink Trombone魔性发音合成器
+    🔗 https://www.nodeseek.com/post-1007270-1
+03. [NodeSeek] 【出】总价100出 懒猫云 GLBB日本动态家宽 三折 7.5r 小杯 400G
+    🔗 https://www.nodeseek.com/post-1007269-1
+04. [NodeSeek] 撬开了龟壳，但创建不了免费机，怎么办？？？兄弟们，我是小白，教教我。
+    🔗 https://www.nodeseek.com/post-1007268-1
+05. [NodeSeek] Google 12个月的AI plus
+    🔗 https://www.nodeseek.com/post-1007267-1
+06. [NodeSeek] 绿云有没有类似9折长期有效的优惠码
+    🔗 https://www.nodeseek.com/post-1007266-1
+07. [NodeSeek] 【收】OVH ie区 德国LIM 上下10G对等  16T 大盘鸡
+    🔗 https://www.nodeseek.com/post-1007265-1
+08. [NodeSeek] 收hk cloudx  5刀年付v6
+    🔗 https://www.nodeseek.com/post-1007264-1
+09. [NodeSeek] 赚2000？
+    🔗 https://www.nodeseek.com/post-1007263-1
+10. [NodeSeek] 最近oracle到底放没放水，依然天天abc
+    🔗 https://www.nodeseek.com/post-1007261-1
+11. [NodeSeek] 新加坡原生IP小鸡LXC有没有人合租？
+    🔗 https://www.nodeseek.com/post-1007260-1
+12. [NodeSeek] 这两天亏死我了。回收爆仓女大学生
+    🔗 https://www.nodeseek.com/post-1007258-1
+13. [NodeSeek] 出狗云重庆铂金机器
+    🔗 https://www.nodeseek.com/post-1007257-1
+14. [NodeSeek] panstar的网络很稳定
+    🔗 https://www.nodeseek.com/post-1007256-1
+15. [NodeSeek] [NQ+TQ]Fxtransit US Nova 36$/Y
+    🔗 https://www.nodeseek.com/post-1007255-1
+16. [NodeSeek] 溢价+500-收一台腾讯云无忧，1折或者1.5折的轻友，换不了实名也没关系，我也有营业执照来换主体，试试
+    🔗 https://www.nodeseek.com/post-1007254-1
+17. [NodeSeek] 德国沃达丰app sms-code这个方式登录不上去了？
+    🔗 https://www.nodeseek.com/post-1007253-1
+18. [NodeSeek] 收了个印度区的supergrok，这下可以使用bot了，不知道是否还能续费
+    🔗 https://www.nodeseek.com/post-1007252-1
+19. [NodeSeek] (人找车)帮人找，找个GPT的TEAM车位，长期
+    🔗 https://www.nodeseek.com/post-1007251-1
+20. [NodeSeek] vultr客服有什么高效的联系方式吗
+    🔗 https://www.nodeseek.com/post-1007250-1
+21. [V2EX] codex 最新的功能，居然和我之前做的小功能如此雷同
+    🔗 https://www.v2ex.com/t/1251621
+22. [V2EX] VOXI 和 CTExcel 留哪个比较好?
+    🔗 https://www.v2ex.com/t/1251620
+23. [V2EX] 长期国区 iCloud 2T 车找人，年付 135 元/人，人均 350GB
+    🔗 https://www.v2ex.com/t/1251619
+24. [V2EX] 从网页端到 7.6MB APP 客户端：一个现代老黄历工具的迭代记录，支持手机组件
+    🔗 https://www.v2ex.com/t/1251617
+25. [V2EX] [Day 20] - 10.25 - Tibo 又要重置了
+    🔗 https://www.v2ex.com/t/1251616
+26. [V2EX] libcr 项目组发布文件管理器 crFiles 1.6.6 for macOS， 支持 Android 快速分享
+    🔗 https://www.v2ex.com/t/1251615
+27. [V2EX] 做了一个 Topview T1 视频创作站，想听听大家对图生视频流程的意见
+    🔗 https://www.v2ex.com/t/1251614
+28. [V2EX] 外置硬盘不安全关机计数
+    🔗 https://www.v2ex.com/t/1251612
+29. [V2EX] [全职 / AI 公司] AI 应用开发工程师｜招募像姚顺雨一样，有技术追求的工程师
+    🔗 https://www.v2ex.com/t/1251611
+30. [V2EX] 有什么工具可以测试鼠标的微动是否有问题
+    🔗 https://www.v2ex.com/t/1251609
+31. [V2EX] [全网最短路径] 手机一键下载多平台视频
+    🔗 https://www.v2ex.com/t/1251607
+32. [V2EX] 用 Agent 编程，但我为什么这么累？分享我的项目 Pot 以及一些想法
+    🔗 https://www.v2ex.com/t/1251606
+33. [V2EX] 你们是如何让 AI 解决 BUG 的呢？
+    🔗 https://www.v2ex.com/t/1251605
+34. [V2EX] [开源] Reelay：自动监听 TG 里影视资源 BOT 转存到 115，并整理成个人媒体库
+    🔗 https://www.v2ex.com/t/1251604
+35. [V2EX] [开源自荐] Linkit：本地优先的 AI 书签管理器，自动摘要 + 语义搜索 #21
+    🔗 https://www.v2ex.com/t/1251602
+36. [V2EX] 搓了一个“V2EX 评论上下文”的 chrome 插件，方便 V 友阅读评论
+    🔗 https://www.v2ex.com/t/1251601
+37. [V2EX] 《我享云》机场代理 · 性价比之王 · 注册免费试用 5-10 天 · 让一块钱用上 IX 专线 10-25
+    🔗 https://www.v2ex.com/t/1251599
+38. [V2EX] Bing 中国大陆搜索是否存在对部分国外网站的刻意降权或隐藏？
+    🔗 https://www.v2ex.com/t/1251598
+39. [V2EX] 手贱把 Google payments profile 给关闭了
+    🔗 https://www.v2ex.com/t/1251597
+40. [V2EX] [开源] 每次买新 VPS 都要重配一遍环境太烦了，写了个一条命令配好 Linux 终端的工具 ShellReady（集成 BBR / trzsz / Starship / Atuin / zoxide）
+    🔗 https://www.v2ex.com/t/1251596
+41. [V2EX] [安卓] [免 ROOT] [禁用广告软件自动安装]
+    🔗 https://www.v2ex.com/t/1251595
+42. [V2EX] 购物观念的改变
+    🔗 https://www.v2ex.com/t/1251593
+43. [V2EX] 用 ai 实现书法作品自动生成
+    🔗 https://www.v2ex.com/t/1251592
+44. [LowEndTalk(EN)] Best Singapore VPS Provider (Need High Bandwidth)
+    🔗 https://lowendtalk.com/discussion/220508/best-singapore-vps-provider-need-high-bandwidth
+45. [LowEndTalk(EN)] GreenCloud SG DC2: advertised test IP is clean, delivered range is VPN-flagged — refund, relocation
+    🔗 https://lowendtalk.com/discussion/222476/greencloud-sg-dc2-advertised-test-ip-is-clean-delivered-range-is-vpn-flagged-refund-relocation
+46. [LowEndTalk(EN)] WTB 4 x Geo-separated VMs/dedi (US, EU, Asia)
+    🔗 https://lowendtalk.com/discussion/222477/wtb-4-x-geo-separated-vms-dedi-us-eu-asia
+47. [LowEndTalk(EN)] About Points (LET Lore)
+    🔗 https://lowendtalk.com/discussion/222475/about-points-let-lore
+48. [Lobste.rs] MacOS Extensions pack for the Apple Network Server v1.0
+    🔗 http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html
 =================================================================
