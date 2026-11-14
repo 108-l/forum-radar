@@ -1,80 +1,64 @@
 =================================================================
-📡 【全域六维极客情报 快报】(2026-11-14 20:08:07)
-📊 本批次共捕获 36 篇新帖 (NodeSeek: 20篇, V2EX: 8篇, LowEndTalk(EN): 6篇, Habr(RU): 1篇, Lobste.rs: 1篇)
+📡 【全域六维极客情报 快报】(2026-11-14 23:57:02)
+📊 本批次共捕获 28 篇新帖 (NodeSeek: 20篇, V2EX: 3篇, LowEndTalk(EN): 2篇, Habr(RU): 1篇, Lobste.rs: 2篇)
 -----------------------------------------------------------------
-🧠 【核心动向速览】：🌐 英文全球特价主机与海外算力一手行情；🇷🇺 俄区底层流量混淆、Telegram逆向与安全对抗；🦞 全球邀请制底层系统架构与极客讨论；🤖 AI商业车位招募与大模型落地风向；💻 国内云服务线路波动与二手转让
+🧠 【核心动向速览】：🌐 英文全球特价主机与海外算力一手行情；🇷🇺 俄区底层流量混淆、Telegram逆向与安全对抗；🦞 全球邀请制底层系统架构与极客讨论；💻 国内云服务线路波动与二手转让
 -----------------------------------------------------------------
 📋 【最新抓取清单】：
-01. [NodeSeek] 币圈周末又被血洗了
-    🔗 https://www.nodeseek.com/post-1054758-1
-02. [NodeSeek] 出光锥云 lightcone CNIX 99r半年付
-    🔗 https://www.nodeseek.com/post-1054757-1
-03. [NodeSeek] 葡萄牙vs丹麦 欧国联 youtube有直播吗
-    🔗 https://www.nodeseek.com/post-1054756-1
-04. [NodeSeek] 华为云的30M小口子
-    🔗 https://www.nodeseek.com/post-1054755-1
-05. [NodeSeek] 时间到了 该睡觉了 不能再肝了
-    🔗 https://www.nodeseek.com/post-1054754-1
-06. [NodeSeek] 中耳炎好痛 劝各位mjj千万不要经常掏耳朵
-    🔗 https://www.nodeseek.com/post-1054753-1
-07. [NodeSeek] muse-11.15-互助
-    🔗 https://www.nodeseek.com/post-1054752-1
-08. [NodeSeek] 无意外水贴 越来越多了
-    🔗 https://www.nodeseek.com/post-1054751-1
-09. [NodeSeek] 好久没看LOL比赛了，恰好今天熬夜没睡，去再感受一把青春吧。
-    🔗 https://www.nodeseek.com/post-1054750-1
-10. [NodeSeek] 要开始了要开始了 BLG加油
-    🔗 https://www.nodeseek.com/post-1054749-1
-11. [NodeSeek] 国内的服务器，必须备案才能挂网站么
-    🔗 https://www.nodeseek.com/post-1054748-1
-12. [NodeSeek] [NQ]Hytron HK-WPC-10-Server-5
-    🔗 https://www.nodeseek.com/post-1054747-1
-13. [NodeSeek] 要来了 要来了 烤串和啤酒已经准备好了 BLG 看你的了！！
-    🔗 https://www.nodeseek.com/post-1054746-1
-14. [NodeSeek] 【出】YT云途 IX 300G 200M 89.1/年
-    🔗 https://www.nodeseek.com/post-1054745-1
-15. [NodeSeek] 求租 Netcup G9.5
-    🔗 https://www.nodeseek.com/post-1054744-1
-16. [NodeSeek] 服了lol开幕式国内平台都不给看
-    🔗 https://www.nodeseek.com/post-1054743-1
-17. [NodeSeek] BLG干它！一串四！
-    🔗 https://www.nodeseek.com/post-1054742-1
-18. [NodeSeek] 华为云的3块开七个月的新加坡vps的活动有人试了吗
-    🔗 https://www.nodeseek.com/post-1054741-1
-19. [NodeSeek] 【TQ】matrix 圣何塞 4837 优化 1C / 2G / 20G 1G/1.5T 调优后
-    🔗 https://www.nodeseek.com/post-1054739-1
-20. [NodeSeek] 大家都在看lol比赛吗？
-    🔗 https://www.nodeseek.com/post-1054738-1
-21. [V2EX] 在英国做了五年 AI 创业，找几个能自己把事做成的人一起做英国市场
-    🔗 https://www.v2ex.com/t/1257138
-22. [V2EX] 两个 Claude Pro 号 KYC，两个号都找 KYC 代过，一个号秒封，一个号现在还活着
-    🔗 https://www.v2ex.com/t/1257137
-23. [V2EX] AI slop 是怎么来的，从提工单可窥见一角
-    🔗 https://www.v2ex.com/t/1257136
-24. [V2EX] 老黄这些年，真没白干！
-    🔗 https://www.v2ex.com/t/1257134
-25. [V2EX] 线下摸完 Duo，年年焕新最终还是换了 18Pro Max
-    🔗 https://www.v2ex.com/t/1257132
-26. [V2EX] Runner iPhone 版开启 TestFlight 内测：在手机上看终端、回消息、带 crew 干活
-    🔗 https://www.v2ex.com/t/1257131
-27. [V2EX] 关于设置中目前提供的 6 种楼中楼样式的 Demo
-    🔗 https://www.v2ex.com/t/1257128
-28. [V2EX] 20261114 - 楼中楼样式、黑暗模式可以自动跟随系统设置及 Solana 买入按钮的额外铜币奖励
-    🔗 https://www.v2ex.com/t/1257127
-29. [LowEndTalk(EN)] [Request] Looking for BGP/ISP provider to announce my /24 via LOA
-    🔗 https://lowendtalk.com/discussion/223303/request-looking-for-bgp-isp-provider-to-announce-my-24-via-loa
-30. [LowEndTalk(EN)] Can anyone give me some advice on how should i promote hosting?
-    🔗 https://lowendtalk.com/discussion/223306/can-anyone-give-me-some-advice-on-how-should-i-promote-hosting
-31. [LowEndTalk(EN)] Looking for a VPS in Türkiye
-    🔗 https://lowendtalk.com/discussion/223307/looking-for-a-vps-in-tuerkiye
-32. [LowEndTalk(EN)] I used all of my monthly traffic allowance of 1 TB as soon as I could, but Servitro didn't like this
-    🔗 https://lowendtalk.com/discussion/223276/i-used-all-of-my-monthly-traffic-allowance-of-1-tb-as-soon-as-i-could-but-servitro-didnt-like-this
-33. [LowEndTalk(EN)] Hello everyone — Telegram bot developer joining
-    🔗 https://lowendtalk.com/discussion/223302/hello-everyone-telegram-bot-developer-joining
-34. [LowEndTalk(EN)] Title: [WTB] Eyeball / Residential ISP ASN to announce my IPXO /24 via GRE / WireGuard tunnel
-    🔗 https://lowendtalk.com/discussion/223304/title-wtb-eyeball-residential-isp-asn-to-announce-my-ipxo-24-via-gre-wireguard-tunnel
-35. [Habr(RU)] Anthropic профинансировала должность специалиста по безопасности из‑за роста уязвимостей в Python
-    🔗 https://habr.com/ru/articles/1107908/
-36. [Lobste.rs] Let Me Let You Own Your Data
-    🔗 https://www.willett.io/posts/data/
+01. [NodeSeek] win codex使用环境是不是方案	推荐程度	适合场景 WSL2 + VS Code + Codex CLI最好
+    🔗 https://www.nodeseek.com/post-1054834-1
+02. [NodeSeek] 看比赛看入迷了下意识打完团想按快进
+    🔗 https://www.nodeseek.com/post-1054833-1
+03. [NodeSeek] 请问下antigravity 使用
+    🔗 https://www.nodeseek.com/post-1054832-1
+04. [NodeSeek] [测试留档]PanstarCloud HKPro-Test
+    🔗 https://www.nodeseek.com/post-1054831-1
+05. [NodeSeek] 11块买的pixel pro一晚上就没了
+    🔗 https://www.nodeseek.com/post-1054830-1
+06. [NodeSeek] muse薅太多，垒在一起有个一万多亿token
+    🔗 https://www.nodeseek.com/post-1054829-1
+07. [NodeSeek] 有没有大佬开个盘口
+    🔗 https://www.nodeseek.com/post-1054828-1
+08. [NodeSeek] 拿下了
+    🔗 https://www.nodeseek.com/post-1054827-1
+09. [NodeSeek] 睡了一觉起来 BLG2:1
+    🔗 https://www.nodeseek.com/post-1054826-1
+10. [NodeSeek] 求30刀年稳定鸡
+    🔗 https://www.nodeseek.com/post-1054825-1
+11. [NodeSeek] LPL最有希望的一年
+    🔗 https://www.nodeseek.com/post-1054824-1
+12. [NodeSeek] Vercel 推出 Token Pass
+    🔗 https://www.nodeseek.com/post-1054823-1
+13. [NodeSeek] dmit昨天炸了2次
+    🔗 https://www.nodeseek.com/post-1054822-1
+14. [NodeSeek] 收喵云[TW]HKIDC-Nano 6.1折月付7.87
+    🔗 https://www.nodeseek.com/post-1054821-1
+15. [NodeSeek] 继续收aether la折扣款
+    🔗 https://www.nodeseek.com/post-1054820-1
+16. [NodeSeek] 今天blg跟geng真焦灼啊
+    🔗 https://www.nodeseek.com/post-1054819-1
+17. [NodeSeek] 【收】LegendVPS SG Lite $44/3y
+    🔗 https://www.nodeseek.com/post-1054818-1
+18. [NodeSeek] [自刀26 100出] 破云 breacloud Professional-GGBOOM
+    🔗 https://www.nodeseek.com/post-1054817-1
+19. [NodeSeek] [70r包push] 出蛋云 hk 七折175r年付款
+    🔗 https://www.nodeseek.com/post-1054816-1
+20. [NodeSeek] 现在前置机怎么这么少人出
+    🔗 https://www.nodeseek.com/post-1054815-1
+21. [V2EX] 求购 awsb 5.2fable 这个模型
+    🔗 https://www.v2ex.com/t/1257143
+22. [V2EX] 阿里下个月要有大动作！融合模型要上线了
+    🔗 https://www.v2ex.com/t/1257141
+23. [V2EX] 新一代的放疗治疗计划演示平台
+    🔗 https://www.v2ex.com/t/1257139
+24. [LowEndTalk(EN)] 12GB Ram to 16GB Ram VPS
+    🔗 https://lowendtalk.com/discussion/223319/12gb-ram-to-16gb-ram-vps
+25. [LowEndTalk(EN)] [US] Pre-Black Friday Sale | 50% OFF Intel VPS Monthly & Yearly | VPS from $2.13/mo | Free 10Gbps
+    🔗 https://lowendtalk.com/discussion/223320/us-pre-black-friday-sale-50-off-intel-vps-monthly-yearly-vps-from-2-13-mo-free-10gbps
+26. [Habr(RU)] Каскад AmneziaWG без скриптов с балансировкой и лимитами скорости
+    🔗 https://habr.com/ru/articles/1107904/
+27. [Lobste.rs] Walking across my Minecraft backups with Plakar
+    🔗 https://poolp.org/posts/2026-11-14/walking-across-my-minecraft-backups-with-plakar/
+28. [Lobste.rs] How will we make senior developers?
+    🔗 https://www.infoworld.com/article/4244077/how-will-we-make-senior-developers.html
 =================================================================
