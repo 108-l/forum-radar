@@ -1,206 +1,199 @@
 =================================================================
-📡 【全域六维极客情报 快报】(2026-11-17 13:30:16)
-📊 本批次共捕获 99 篇新帖 (NodeSeek: 20篇, V2EX: 35篇, LowEndTalk(EN): 9篇, Habr(RU): 22篇, Lobste.rs: 8篇, GitHub: 5篇)
+📡 【全域六维极客情报 快报】(2026-11-17 21:53:08)
+📊 本批次共捕获 95 篇新帖 (NodeSeek: 20篇, V2EX: 44篇, LowEndTalk(EN): 12篇, Habr(RU): 8篇, Lobste.rs: 11篇)
 -----------------------------------------------------------------
-🧠 【核心动向速览】：🌐 英文全球特价主机与海外算力一手行情；🇷🇺 俄区底层流量混淆、Telegram逆向与安全对抗；🦞 全球邀请制底层系统架构与极客讨论；🐙 今日全球最火 GitHub 暴涨开源黑科技；🤖 AI商业车位招募与大模型落地风向；💻 国内云服务线路波动与二手转让
+🧠 【核心动向速览】：🌐 英文全球特价主机与海外算力一手行情；🇷🇺 俄区底层流量混淆、Telegram逆向与安全对抗；🦞 全球邀请制底层系统架构与极客讨论；🤖 AI商业车位招募与大模型落地风向；💻 国内云服务线路波动与二手转让
 -----------------------------------------------------------------
 📋 【最新抓取清单】：
-01. [NodeSeek] 能不能去用GPT
-    🔗 https://www.nodeseek.com/post-1061141-1
-02. [NodeSeek] 推荐一个免费家宽
-    🔗 https://www.nodeseek.com/post-1061139-1
-03. [NodeSeek] 7折出懒猫云余额 166
-    🔗 https://www.nodeseek.com/post-1061138-1
-04. [NodeSeek] RFC JP T1有人租，或者有车没，出的也可以代价来
-    🔗 https://www.nodeseek.com/post-1061137-1
-05. [NodeSeek] 不懂就问，为什么封TCP不封UDP
-    🔗 https://www.nodeseek.com/post-1061136-1
-06. [NodeSeek] 【出】折价出个某家云美西SJC三网优化 CN2GIA/9929/CMIN2
-    🔗 https://www.nodeseek.com/post-1061135-1
-07. [NodeSeek] [NQ] WaWo US-Simple-4G-42 2c4g 30gHDD 4500g双向@10Gbps 9.9r/m
-    🔗 https://www.nodeseek.com/post-1061134-1
-08. [NodeSeek] 【出】折价出shandun无限流量US三网优化
-    🔗 https://www.nodeseek.com/post-1061132-1
-09. [NodeSeek] 【出】280出HostDzire SG 4C6G 45刀/年
-    🔗 https://www.nodeseek.com/post-1061131-1
-10. [NodeSeek] Cloudcone面板已经计费
-    🔗 https://www.nodeseek.com/post-1061130-1
-11. [NodeSeek] 今晚英伟达财报看好嘛
-    🔗 https://www.nodeseek.com/post-1061128-1
-12. [NodeSeek] 德国9929 北方电信体验如何
-    🔗 https://www.nodeseek.com/post-1061127-1
-13. [NodeSeek] 现在香港实体手机卡哪个推荐啊
-    🔗 https://www.nodeseek.com/post-1061124-1
-14. [NodeSeek] NodeSeek 的搜索结果可以显示搜索的 关键字和版面 吗
-    🔗 https://www.nodeseek.com/post-1061123-1
-15. [NodeSeek] 依旧是某家云
-    🔗 https://www.nodeseek.com/post-1061122-1
-16. [NodeSeek] 新西兰部署远程macmini，租赁mac使用claude，gpt等AI。
-    🔗 https://www.nodeseek.com/post-1061121-1
-17. [NodeSeek] 【出】总价 ¥249.00 · 溢价 ¥171.56 · Vmiss · US.LA.CN2.Basic 八折年付
-    🔗 https://www.nodeseek.com/post-1061120-1
-18. [NodeSeek] +50 收一台Panstar LAXPre.DC2 Nano 75折年付循环优惠
-    🔗 https://www.nodeseek.com/post-1061119-1
-19. [NodeSeek] 有or的key的来大量收6块钱一刀有的来就行
-    🔗 https://www.nodeseek.com/post-1061117-1
-20. [NodeSeek] 【出】300打包出TAXI LA 24 和 LA ISP 10
-    🔗 https://www.nodeseek.com/post-1061116-1
-21. [V2EX] AI 目前哪个方向前景还不错？好出论文的
-    🔗 https://www.v2ex.com/t/1257812
-22. [V2EX] 我女朋友开始卖微瑕茶具了！
-    🔗 https://www.v2ex.com/t/1257810
-23. [V2EX] 我做了一个小红书养号助手：自动浏览互动 + 评论区截流，Chrome / Edge 都能装
-    🔗 https://www.v2ex.com/t/1257809
-24. [V2EX] FocusBlock Pro 上线：本地优先的网站拦截器，一次性买断 ¥19.90
-    🔗 https://www.v2ex.com/t/1257807
-25. [V2EX] 教你如何多快好省来养大肥鱼
-    🔗 https://www.v2ex.com/t/1257806
-26. [V2EX] 长期出成品号，免 kyc
-    🔗 https://www.v2ex.com/t/1257803
-27. [V2EX] Claude 过 门户 KYC 过不了 退钱 秒封退钱
-    🔗 https://www.v2ex.com/t/1257802
-28. [V2EX] [分享发现] 竞品分析页，我为什么不再直接截图
-    🔗 https://www.v2ex.com/t/1257801
-29. [V2EX] 原型对齐有什么好的插件或者 skill 吗？
-    🔗 https://www.v2ex.com/t/1257800
-30. [V2EX] 好奇淘宝上的 iOS 开发者证书是怎么快速生成的
-    🔗 https://www.v2ex.com/t/1257799
-31. [V2EX] vvae 1.5.1 更新：适配 v 站新的楼中楼数据结构
-    🔗 https://www.v2ex.com/t/1257798
-32. [V2EX] PHP web 编程语言需要看哪些书籍
-    🔗 https://www.v2ex.com/t/1257797
-33. [V2EX] 今天的 codex 好快，是平时的 2-3 倍速。难道因为最近 chatgpt 弃坑的人太多？
-    🔗 https://www.v2ex.com/t/1257796
-34. [V2EX] openai 又送 api 额度了吗？
-    🔗 https://www.v2ex.com/t/1257795
-35. [V2EX] 必看！如何查看你的 Claude 账户是否值得过 kyc
-    🔗 https://www.v2ex.com/t/1257794
-36. [V2EX] [福利] 自己搭建的公益中转站，送免费体验额度，欢迎 V 友来测试
-    🔗 https://www.v2ex.com/t/1257792
-37. [V2EX] 月经贴，京津冀地区，选车，纯电 SUV
-    🔗 https://www.v2ex.com/t/1257790
-38. [V2EX] 做了个一句话生成 Roblox 游戏的工具，聊聊这两个月踩的坑
-    🔗 https://www.v2ex.com/t/1257789
-39. [V2EX] 行车记录仪提示 TF 卡异常
-    🔗 https://www.v2ex.com/t/1257787
-40. [V2EX] 感觉 v2 再走下坡路了。。
-    🔗 https://www.v2ex.com/t/1257786
-41. [V2EX] AI 再发展 10—30 年：你心中的未来，哪部电影拍出来了？
-    🔗 https://www.v2ex.com/t/1257785
-42. [V2EX] 经历了好几轮封号潮，依然存活的还有多少啊
-    🔗 https://www.v2ex.com/t/1257784
-43. [V2EX] 最近 Token 额度用不完，做了个一键生成讲解视频的 App，单条成本一两分钱（非广）
-    🔗 https://www.v2ex.com/t/1257782
-44. [V2EX] 各位大佬，你们上线的网站、小程序都是怎么解决主体问题的啊？
-    🔗 https://www.v2ex.com/t/1257778
-45. [V2EX] 感觉 AI 就像一种病毒
-    🔗 https://www.v2ex.com/t/1257776
-46. [V2EX] 分享一个我用到的「多项目并行时的任务面板 + 工时记录 + 中英日报生成器」
-    🔗 https://www.v2ex.com/t/1257774
-47. [V2EX] codex 一阵乱码输出
-    🔗 https://www.v2ex.com/t/1257773
-48. [V2EX] 想请教一下，除了豆包和即梦，还有哪些平台能用 Seedream 5.5？
-    🔗 https://www.v2ex.com/t/1257772
-49. [V2EX] 用 Agent 给 Agent 自己写了一个本地使用数据看板
-    🔗 https://www.v2ex.com/t/1257771
-50. [V2EX] ghostproxifier 一款对标 proxifier、proxyBridge 的免费软件
-    🔗 https://www.v2ex.com/t/1257769
-51. [V2EX] 9HTTP 代理 IP 免费试用✅动态住宅静态 7 折✅无限住宅代理
-    🔗 https://www.v2ex.com/t/1257768
-52. [V2EX] 这 iOS App 会员走 H5 微信支付&引导网页支付，不走 IAP，难道大公司就不算违规吗？
-    🔗 https://www.v2ex.com/t/1257766
-53. [V2EX] 局域网最近两类信息被降权：A 股和 AI
-    🔗 https://www.v2ex.com/t/1257765
-54. [V2EX] 我用 VSCode Copilot，Claude 那几个模型像是幽灵，怎么回事？
-    🔗 https://www.v2ex.com/t/1257764
-55. [V2EX] 分享下最近的美食新发现
-    🔗 https://www.v2ex.com/t/1257763
-56. [LowEndTalk(EN)] 2027 KS-LE's and possibly SYS-LE-STOR (tentative)
-    🔗 https://lowendtalk.com/discussion/223416/2027-ks-les-and-possibly-sys-le-stor-tentative
-57. [LowEndTalk(EN)] Searching for a GPU rental, need about 48 GB vram
-    🔗 https://lowendtalk.com/discussion/223410/searching-for-a-gpu-rental-need-about-48-gb-vram
-58. [LowEndTalk(EN)] Contabo Has Been Breached
-    🔗 https://lowendtalk.com/discussion/223408/contabo-has-been-breached
-59. [LowEndTalk(EN)] Lost my WordPress home page by accident. What backup setup would you use so it never happens again?
-    🔗 https://lowendtalk.com/discussion/223404/lost-my-wordpress-home-page-by-accident-what-backup-setup-would-you-use-so-it-never-happens-again
-60. [LowEndTalk(EN)] 1gbps US servers
-    🔗 https://lowendtalk.com/discussion/223411/1gbps-us-servers
-61. [LowEndTalk(EN)] Looking for US or Canada based shared web and email hosting. 2 domains with 3-5 websites each.
-    🔗 https://lowendtalk.com/discussion/223402/looking-for-us-or-canada-based-shared-web-and-email-hosting-2-domains-with-3-5-websites-each
-62. [LowEndTalk(EN)] Looking for 5TB Storage VPS <= $100/y
-    🔗 https://lowendtalk.com/discussion/220986/looking-for-5tb-storage-vps
-63. [LowEndTalk(EN)] Any S3 Service in Singapore?
-    🔗 https://lowendtalk.com/discussion/223403/any-s3-service-in-singapore
-64. [LowEndTalk(EN)] OVH launches European LLM: Olala mini 7A1B
-    🔗 https://lowendtalk.com/discussion/223405/ovh-launches-european-llm-olala-mini-7a1b
-65. [Habr(RU)] Оцениваем зрелость процессов безопасной разработки с BSIMM, DSOMM, SAMM
-    🔗 https://habr.com/ru/companies/bastion/articles/1063688/
-66. [Habr(RU)] Калифорния подала в суд на OpenAI из‑за инцидентов с потерей контроля над ИИ, включая взлом Hugging Face
-    🔗 https://habr.com/ru/articles/1108898/
-67. [Habr(RU)] [Перевод] На страже доступа: опасные разрешения встроенных субъектов Kubernetes
-    🔗 https://habr.com/ru/companies/vktech/articles/1108894/
-68. [Habr(RU)] Наскальный менеджмент: заблокированный MacBook и стратегия на листах А4
-    🔗 https://habr.com/ru/articles/1108890/
-69. [Habr(RU)] Перед residual stream: токенизация, эмбеддинги и изнанка безопасности LLM
-    🔗 https://habr.com/ru/articles/1108536/
-70. [Habr(RU)] upd: Сбой в работе Timeweb — cетевая проблема устранена
-    🔗 https://habr.com/ru/articles/1108824/
-71. [Habr(RU)] Банки опасаются роста цен на СМС после исключения агрегаторов из рассылок
-    🔗 https://habr.com/ru/articles/1108810/
-72. [Habr(RU)] Beget: завершаются работы по восстановлению виртуального хостинга
-    🔗 https://habr.com/ru/articles/1108790/
-73. [Habr(RU)] Хакеры внедрили вредоносный JavaScript на 178 сайтов через Optimizely
-    🔗 https://habr.com/ru/companies/otus/articles/1108752/
-74. [Habr(RU)] Где будет ИТ через год, если ИИ начнёт действовать сам: 10 трендов Gartner на 2027 год
-    🔗 https://habr.com/ru/companies/simpleone/articles/1108726/
-75. [Habr(RU)] Страхование будущего: как бороться с AI-мошенниками, как нейронки меняют бизнес, разработку и клиентский опыт
-    🔗 https://habr.com/ru/companies/agima/articles/1108766/
-76. [Habr(RU)] «Хаусфишинг»: как мошенники приукрашивают фотографии недвижимости с помощью ИИ
-    🔗 https://habr.com/ru/articles/1108744/
-77. [Habr(RU)] «Солар» выводит на рынок Solar LightHouse – первую платформу для непрерывной оценки и проактивной защиты инфраструктуры
-    🔗 https://habr.com/ru/companies/solarsecurity/articles/1108736/
-78. [Habr(RU)] Ноябрьский «В тренде VM»: уязвимости PHP и GitLab
-    🔗 https://habr.com/ru/companies/pt/articles/1108554/
-79. [Habr(RU)] Уязвимость в TCP‑стеке ядра Linux приводит к разыменованию нулевого указателя или обращению к памяти
-    🔗 https://habr.com/ru/articles/1108700/
-80. [Habr(RU)] Шпионские связи: F6 изучила ИИ‑инструменты группировки Rezet в атаках на Россию и мир
-    🔗 https://habr.com/ru/companies/F6/articles/1108442/
-81. [Habr(RU)] Apple добавляет индикатор приложений с расширенными правами — всё из-за распространения ИИ-агентов
-    🔗 https://habr.com/ru/articles/1108706/
-82. [Habr(RU)] Apple изменит систему контроля безопасности Mac из‑за популярности ИИ‑программ
-    🔗 https://habr.com/ru/articles/1108686/
-83. [Habr(RU)] Кого и чему учить: риск-ориентированная архитектура Security Awareness
-    🔗 https://habr.com/ru/companies/rshb/articles/1108668/
-84. [Habr(RU)] Infoblox подтвердила утечку корпоративной информации
-    🔗 https://habr.com/ru/articles/1108678/
-85. [Habr(RU)] Claude Code и файл settings.local.json: как „не спрашивать снова“ выкладывает пароли на GitHub и что проверить у себя
-    🔗 https://habr.com/ru/articles/1108676/
-86. [Habr(RU)] Выпуск системы фильтрации спама Rspamd 4.3.0
-    🔗 https://habr.com/ru/articles/1108572/
-87. [Lobste.rs] Redict is deprecated
-    🔗 https://redict.io/posts/2026-11-17-redict-deprecated/
-88. [Lobste.rs] Github Redesign (2019)
-    🔗 https://tonsky.me/blog/github-redesign/
-89. [Lobste.rs] My Emacs 31 contributions
-    🔗 https://xenodium.com/my-emacs-31-contributions
-90. [Lobste.rs] Why No AI?
-    🔗 https://whynoai.info/
-91. [Lobste.rs] Software is breaking down at a systemic level
-    🔗 https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/
-92. [Lobste.rs] Program-as-Weights: A Programming Paradigm for Fuzzy Functions
-    🔗 https://arxiv.org/abs/2607.02512
-93. [Lobste.rs] Can a formally-verified C compiler be as performant as gcc -O2?
-    🔗 https://ut-infraai.github.io/2026/11/13/trying-to-make-compcert-as-fast-as-gcc-o2/
-94. [Lobste.rs] Pixels on a screen
-    🔗 https://whitebeard.blog/posts/pixels-on-a-screen/
-95. [GitHub] [GitHub Hot] Tencent/LoopForge (今日新增 ⭐590): No description
-    🔗 https://github.com/Tencent/LoopForge
-96. [GitHub] [GitHub Hot] cursor/plugins (今日新增 ⭐196): No description
-    🔗 https://github.com/cursor/plugins
-97. [GitHub] [GitHub Hot] sponsors/obra (今日新增 ⭐1,905): No description
-    🔗 https://github.com/sponsors/obra
-98. [GitHub] [GitHub Hot] sponsors/affaan-m (今日新增 ⭐902): No description
-    🔗 https://github.com/sponsors/affaan-m
-99. [GitHub] [GitHub Hot] jingyaogong/minimind (今日新增 ⭐188): No description
-    🔗 https://github.com/jingyaogong/minimind
+01. [NodeSeek] 问下阿里云内网需要啥
+    🔗 https://www.nodeseek.com/post-1061851-1
+02. [NodeSeek] [收]  PPFlight GLOBAL S2
+    🔗 https://www.nodeseek.com/post-1061849-1
+03. [NodeSeek] 溢价收 OVH SYS-STOR-LE-1 BHS 带价 谢谢
+    🔗 https://www.nodeseek.com/post-1061848-1
+04. [NodeSeek] 谷歌的这个羊毛你们扣款了吗？
+    🔗 https://www.nodeseek.com/post-1061847-1
+05. [NodeSeek] 你们猜高市早苗会跟老大握手吗？
+    🔗 https://www.nodeseek.com/post-1061846-1
+06. [NodeSeek] 怪不得人家能挣钱
+    🔗 https://www.nodeseek.com/post-1061845-1
+07. [NodeSeek] 生图还得是gpt啊2.6好用
+    🔗 https://www.nodeseek.com/post-1061844-1
+08. [NodeSeek] 【出】25r 出个 bitsflow hkg 6.37镑 / 年
+    🔗 https://www.nodeseek.com/post-1061843-1
+09. [NodeSeek] [Apple] App Store服务炸了，无法登录
+    🔗 https://www.nodeseek.com/post-1061842-1
+10. [NodeSeek] 【NQ】OVH KS-1-B
+    🔗 https://www.nodeseek.com/post-1061841-1
+11. [NodeSeek] 苹果线上服务大规模宕机
+    🔗 https://www.nodeseek.com/post-1061840-1
+12. [NodeSeek] 高市早苗今天到深圳吧
+    🔗 https://www.nodeseek.com/post-1061839-1
+13. [NodeSeek] ChatGPT 最新模型 6.2-astra-max 、 6.2-sol-max 鹈鹕测试来了！
+    🔗 https://www.nodeseek.com/post-1061838-1
+14. [NodeSeek] 不吃压力，直接开ultra！
+    🔗 https://www.nodeseek.com/post-1061837-1
+15. [NodeSeek] 溢价收一台 BreezeHost 的去年黑五 50 刀 AMD 盲盒
+    🔗 https://www.nodeseek.com/post-1061836-1
+16. [NodeSeek] 30出云悠三网优化 cn2gia cmin2 9929三网双程优化 月付19.9
+    🔗 https://www.nodeseek.com/post-1061835-1
+17. [NodeSeek] yt的ix是不是都下架了
+    🔗 https://www.nodeseek.com/post-1061834-1
+18. [NodeSeek] GPT-6.2 Astra 和 sol 已实装
+    🔗 https://www.nodeseek.com/post-1061832-1
+19. [NodeSeek] 【NQ】OVH ks-le-6 GRA 29.99欧/m
+    🔗 https://www.nodeseek.com/post-1061831-1
+20. [NodeSeek] NQ TY云US美国一 80M
+    🔗 https://www.nodeseek.com/post-1061830-1
+21. [V2EX] 对比了 Claude 之后，我才知道 GPT 是话痨
+    🔗 https://www.v2ex.com/t/1257866
+22. [V2EX] 做了一个 kfc 疯狂星期四的文案馆网站
+    🔗 https://www.v2ex.com/t/1257865
+23. [V2EX] 海外新号开通 PRO 遭到 KYC
+    🔗 https://www.v2ex.com/t/1257864
+24. [V2EX] windows 风扇管家
+    🔗 https://www.v2ex.com/t/1257862
+25. [V2EX] 6.2 Astra 和 6.2 Sol 的使用体验让我事后更加偏爱 Claude 的模型
+    🔗 https://www.v2ex.com/t/1257861
+26. [V2EX] 体感 claude 周用量超过 70%就开始降智
+    🔗 https://www.v2ex.com/t/1257860
+27. [V2EX] 想问下，现在想折腾安卓机最好推荐买什么型号的二手？
+    🔗 https://www.v2ex.com/t/1257859
+28. [V2EX] [macmini.ca] 加拿大 Mac mini 托管与租赁
+    🔗 https://www.v2ex.com/t/1257858
+29. [V2EX] 这就突然端出来了？GPT-6.2 Astra 和 Sol 现已可用
+    🔗 https://www.v2ex.com/t/1257857
+30. [V2EX] GPT-6.2 Astra & Sol 发布了
+    🔗 https://www.v2ex.com/t/1257856
+31. [V2EX] GPT-6.2 Astra 半夜发布了
+    🔗 https://www.v2ex.com/t/1257855
+32. [V2EX] YouTube Transcript Export：把单个视频的字幕导出成 TXT / Markdown / SRT / VTT
+    🔗 https://www.v2ex.com/t/1257854
+33. [V2EX] WorkBuddy 使用数据可视化看板
+    🔗 https://www.v2ex.com/t/1257853
+34. [V2EX] 微信完全没有隐私可言
+    🔗 https://www.v2ex.com/t/1257851
+35. [V2EX] 天河信息港软件园附近合租
+    🔗 https://www.v2ex.com/t/1257850
+36. [V2EX] SessionSnap：跨浏览器会话管理器，Edge / Firefox 版，本地优先
+    🔗 https://www.v2ex.com/t/1257849
+37. [V2EX] Claude 养号神器 Blakcat VPN
+    🔗 https://www.v2ex.com/t/1257848
+38. [V2EX] Mac mini 放美国朋友家 长期 远程 用，怎么做到尽量不麻烦他？选什么 MDM？
+    🔗 https://www.v2ex.com/t/1257847
+39. [V2EX] 求助帖，关于 Apple 家庭共享的问题
+    🔗 https://www.v2ex.com/t/1257846
+40. [V2EX] 来看看这个开源 9B 模型的审美吧
+    🔗 https://www.v2ex.com/t/1257844
+41. [V2EX] 风景好的时候，总想多一个可用机位，分享我做的延时摄影 App
+    🔗 https://www.v2ex.com/t/1257843
+42. [V2EX] surge ios6 stable 怎么还不上啊？
+    🔗 https://www.v2ex.com/t/1257842
+43. [V2EX] [薅 google 羊毛] Google AI Ultra 订阅，Carbon 免费试用
+    🔗 https://www.v2ex.com/t/1257841
+44. [V2EX] 早先 Opus 5.5 出来时 one-shot 的一个生存者类游戏 Demo
+    🔗 https://www.v2ex.com/t/1257840
+45. [V2EX] [开源] 分享一个我做的跳广告插件，利用 AI 跳过 B 站视频内的广告
+    🔗 https://www.v2ex.com/t/1257839
+46. [V2EX] 我解密了电信光猫里的 m01-b01-inner 插件：它能提取手机号、IMEI，能远程执行命令，还能扫描你家内网
+    🔗 https://www.v2ex.com/t/1257838
+47. [V2EX] 你我皆可数字飞升
+    🔗 https://www.v2ex.com/t/1257837
+48. [V2EX] ConvoExport：把一条 ChatGPT / Claude 对话导出成 Markdown、DOCX 或打印版
+    🔗 https://www.v2ex.com/t/1257836
+49. [V2EX] 基于 TwitCanva 做了个 AI 画布：右侧 Chat 可以直接改左侧画布，但两边有时会对不齐
+    🔗 https://www.v2ex.com/t/1257835
+50. [V2EX] MachinePulse 开源多模态决策模型 Karpo Decision 31B：登顶 Decision Index #1，单次前向中位延迟 94ms（0.8B-31B 全家桶）
+    🔗 https://www.v2ex.com/t/1257834
+51. [V2EX] 线上远程（不限地点）
+AI 短剧导/AI 短剧编剧/AI 视频制作/AI 视频内容工程师学徒/AI 短剧剧本审核专员/AI 短剧质量检测专员/短剧审核（剧本）/中高级运营/新媒体运营（越南市场男生）
+    🔗 https://www.v2ex.com/t/1257833
+52. [V2EX] [求职] 7 年前端 2 年全栈，找居家远程开发/江苏内的工作
+    🔗 https://www.v2ex.com/t/1257831
+53. [V2EX] 电信光猫改桥接后，IPTV 照样能看：关键只有一条 VLAN 绑定
+    🔗 https://www.v2ex.com/t/1257830
+54. [V2EX] Pi Bot 上线了！
+    🔗 https://www.v2ex.com/t/1257829
+55. [V2EX] Gemini Carbon 很强，但是 Antigravity CLI 就是登录不上怎么办
+    🔗 https://www.v2ex.com/t/1257828
+56. [V2EX] 人在新加坡，是不是不会被 Claude 封号了
+    🔗 https://www.v2ex.com/t/1257825
+57. [V2EX] Gemini Ultra 免费一个月？有 V 友领到了吗，想核对下条件
+    🔗 https://www.v2ex.com/t/1257824
+58. [V2EX] 一个简洁快速的打印纸生成器
+    🔗 https://www.v2ex.com/t/1257823
+59. [V2EX] 好久没上线了，有没有错过什么有意思的帖子？
+    🔗 https://www.v2ex.com/t/1257822
+60. [V2EX] 这 AI 真他妈智障
+    🔗 https://www.v2ex.com/t/1257821
+61. [V2EX] 磁轴键盘是完全不考虑办公客户
+    🔗 https://www.v2ex.com/t/1257820
+62. [V2EX] [Rust Root] 第一章：不写一行 Rust 语法，带你把所有权和借用重新推演一遍
+    🔗 https://www.v2ex.com/t/1257819
+63. [V2EX] telegram 官方通知 必须使用 stars 支付
+    🔗 https://www.v2ex.com/t/1257818
+64. [V2EX] 如何合法合规的使用海外模型？
+    🔗 https://www.v2ex.com/t/1257817
+65. [LowEndTalk(EN)] Reseam (from former ReVanced team) needs a server
+    🔗 https://lowendtalk.com/discussion/223440/reseam-from-former-revanced-team-needs-a-server
+66. [LowEndTalk(EN)] FBI Says ARTEX AI Tool Helped Hackers Gain Privileged Access in Under 3 Hours
+    🔗 https://lowendtalk.com/discussion/223424/fbi-says-artex-ai-tool-helped-hackers-gain-privileged-access-in-under-3-hours
+67. [LowEndTalk(EN)] .fly .eat .here open for registration
+    🔗 https://lowendtalk.com/discussion/223423/fly-eat-here-open-for-registration
+68. [LowEndTalk(EN)] Stock KS-LE-4 & 5 for Transfer
+    🔗 https://lowendtalk.com/discussion/223430/stock-ks-le-4-5-for-transfer
+69. [LowEndTalk(EN)] Dedispec – Request for Assistance Regarding Delayed Dedicated Server Provisioning
+    🔗 https://lowendtalk.com/discussion/223437/dedispec-request-for-assistance-regarding-delayed-dedicated-server-provisioning
+70. [LowEndTalk(EN)] [Transfer] OVH CA BHS KS-1 (32G RAM, 2x2TB)
+    🔗 https://lowendtalk.com/discussion/221193/transfer-ovh-ca-bhs-ks-1-32g-ram-2x2tb
+71. [LowEndTalk(EN)] [Transfer] OVH World FRA Germany KS-5-A (32G RAM, 2x1TB NVME, 10G)
+    🔗 https://lowendtalk.com/discussion/223438/transfer-ovh-world-fra-germany-ks-5-a-32g-ram-2x1tb-nvme-10g
+72. [LowEndTalk(EN)] URDN colo worth it?
+    🔗 https://lowendtalk.com/discussion/223436/urdn-colo-worth-it
+73. [LowEndTalk(EN)] Statement from Jensen
+    🔗 https://lowendtalk.com/discussion/223425/statement-from-jensen
+74. [LowEndTalk(EN)] Looking for a Dedicated Server in New York – Dual CPU, 128GB+ RAM
+    🔗 https://lowendtalk.com/discussion/223422/looking-for-a-dedicated-server-in-new-york-dual-cpu-128gb-ram
+75. [LowEndTalk(EN)] KS-LE-3 in FRA only
+    🔗 https://lowendtalk.com/discussion/223434/ks-le-3-in-fra-only
+76. [LowEndTalk(EN)] Looking for VPS Hosting recommendations for a small project
+    🔗 https://lowendtalk.com/discussion/221182/looking-for-vps-hosting-recommendations-for-a-small-project
+77. [Habr(RU)] Тесты были зелёными, дыру нашёл человек: разбор уязвимости в нашем OpenID‑сервере
+    🔗 https://habr.com/ru/articles/1109088/
+78. [Habr(RU)] Глобальный сбой в работе сервисов Apple, включая App Store и iCloud
+    🔗 https://habr.com/ru/articles/1109058/
+79. [Habr(RU)] Запретный плод: возвращаем на iOS делистнутые из App Store приложения без кабеля
+    🔗 https://habr.com/ru/articles/1109020/
+80. [Habr(RU)] [Перевод] Переименовал cmd.exe в codex.exe, и Windows 11 поставила отметку «Codex» в очередь телеметрии
+    🔗 https://habr.com/ru/articles/1109000/
+81. [Habr(RU)] Ссылка или код? Сравниваем не два, а три способа входа по email: какой безопаснее и удобнее
+    🔗 https://habr.com/ru/companies/veriqa/articles/1108892/
+82. [Habr(RU)] Flipper One вышел на Kickstarter, проект собрал $1 млн за первые 15 минут и $2 млн за 30 минут
+    🔗 https://habr.com/ru/articles/1108990/
+83. [Habr(RU)] Как обезопасить данные в системах ИИ, если вы дварф из D&amp;D
+    🔗 https://habr.com/ru/companies/infotecs_tech/articles/1108514/
+84. [Habr(RU)] Кто больше? Осенний дайджест уязвимостей с самым большим количеством PoC
+    🔗 https://habr.com/ru/companies/garda/articles/1108522/
+85. [Lobste.rs] Actual curl rewrites in rust
+    🔗 https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/
+86. [Lobste.rs] How to Bypass Rust's Orphan Rule
+    🔗 https://edvong.com/bypass-orphan-rule/
+87. [Lobste.rs] Phrack 73
+    🔗 https://phrack.org/issues/73/introduction_md.html
+88. [Lobste.rs] Steve Jobs Core Animation demo from WWDC 2007
+    🔗 https://lucas.love/100/058
+89. [Lobste.rs] Java4Shell: Write once, RCE everywhere
+    🔗 https://calif.io/java4shell/
+90. [Lobste.rs] C’s designated initializers give us named arguments
+    🔗 https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/
+91. [Lobste.rs] Automatic Checking of Compiler Correctness with E-Graphs
+    🔗 https://stng.substack.com/p/automatic-checking-of-compiler-correctness
+92. [Lobste.rs] Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry
+    🔗 https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html
+93. [Lobste.rs] Making Games in Go: Entity Component System (ECS)
+    🔗 https://threedots.tech/post/making-games-in-go-ecs/
+94. [Lobste.rs] Sarasa Gothic Mono
+    🔗 https://picaq.github.io/sarasa
+95. [Lobste.rs] Clarke's three laws
+    🔗 https://en.wikipedia.org/wiki/Clarke%27s_three_laws
 =================================================================
