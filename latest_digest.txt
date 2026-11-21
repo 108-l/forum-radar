@@ -1,84 +1,170 @@
 =================================================================
-📡 【全域六维极客情报 快报】(2026-11-20 23:53:34)
-📊 本批次共捕获 38 篇新帖 (NodeSeek: 20篇, V2EX: 7篇, LowEndTalk(EN): 9篇, Lobste.rs: 2篇)
+📡 【全域六维极客情报 快报】(2026-11-21 06:40:22)
+📊 本批次共捕获 81 篇新帖 (NodeSeek: 20篇, V2EX: 41篇, Lobste.rs: 4篇, GitHub: 16篇)
 -----------------------------------------------------------------
-🧠 【核心动向速览】：🌐 英文全球特价主机与海外算力一手行情；🦞 全球邀请制底层系统架构与极客讨论；🤖 AI商业车位招募与大模型落地风向；💻 国内云服务线路波动与二手转让
+🧠 【核心动向速览】：🦞 全球邀请制底层系统架构与极客讨论；🐙 今日全球最火 GitHub 暴涨开源黑科技；🤖 AI商业车位招募与大模型落地风向；💻 国内云服务线路波动与二手转让
 -----------------------------------------------------------------
 📋 【最新抓取清单】：
-01. [NodeSeek] [NQ+TQ] DataWave 香港 Standard A2 12r/m 新旧IP段对比
-    🔗 https://www.nodeseek.com/post-1069198-1
-02. [NodeSeek] 黑色星期五 Gemini Ultra 5X只需要300块钱？
-    🔗 https://www.nodeseek.com/post-1069197-1
-03. [NodeSeek] 这次真眩晕瘫坐了，黎曼猜想被证明！
-    🔗 https://www.nodeseek.com/post-1069196-1
-04. [NodeSeek] 【TQ】TYO.AS3.T1.WEE 晚高峰留档
-    🔗 https://www.nodeseek.com/post-1069195-1
-05. [NodeSeek] vmrack三网优化怎么样
-    🔗 https://www.nodeseek.com/post-1069194-1
-06. [NodeSeek] 是不是每天刷满经验，俩月就能到六级啊
-    🔗 https://www.nodeseek.com/post-1069193-1
-07. [NodeSeek] 能不能不要发炒股的信息？
-    🔗 https://www.nodeseek.com/post-1069192-1
-08. [NodeSeek] 233组1200张定妆婚纱照片
-    🔗 https://www.nodeseek.com/post-1069191-1
-09. [NodeSeek] 【NQ】 早低峰狗妈 GoMAMI HKG.Pulse.Mini
-    🔗 https://www.nodeseek.com/post-1069190-1
-10. [NodeSeek] 咋那么多发夸克文件的，又开始拉新了？
-    🔗 https://www.nodeseek.com/post-1069189-1
-11. [NodeSeek] 快讯 Gemini已经重置
-    🔗 https://www.nodeseek.com/post-1069188-1
-12. [NodeSeek] bybit 收200U 6.7
-    🔗 https://www.nodeseek.com/post-1069187-1
-13. [NodeSeek] aws sg晚高峰v6的电信也不行了
-    🔗 https://www.nodeseek.com/post-1069186-1
-14. [NodeSeek] 18总价改qq邮箱别名出v6vps 0.48刀月付
-    🔗 https://www.nodeseek.com/post-1069185-1
-15. [NodeSeek] 日区学生优惠
-    🔗 https://www.nodeseek.com/post-1069184-1
-16. [NodeSeek] 收  bestVM美国Pro月付11.5
-    🔗 https://www.nodeseek.com/post-1069183-1
-17. [NodeSeek] 有没有 CoinGlass API 拼车的老哥
-    🔗 https://www.nodeseek.com/post-1069182-1
-18. [NodeSeek] AWS jp联通又直了？是再次伟大吗，还是短暂波动呢？
-    🔗 https://www.nodeseek.com/post-1069181-1
-19. [NodeSeek] raksmart奇怪的内网连接，一个方向1Gbps，另一个方向只有1Mbps ？【已解决】
-    🔗 https://www.nodeseek.com/post-1069180-1
-20. [NodeSeek] [NQ]腾讯云日本IX
-    🔗 https://www.nodeseek.com/post-1069179-1
-21. [V2EX] 黎曼猜想证明意味着…….
-    🔗 https://www.v2ex.com/t/1258688
-22. [V2EX] Yet another port of the WeType 在 Linux /FreeBSD 上近乎原生运行微信输入法引擎的 Fcitx5 输入法
-    🔗 https://www.v2ex.com/t/1258687
-23. [V2EX] 2026.11.9 旧金山新开的大统华
-    🔗 https://www.v2ex.com/t/1258685
-24. [V2EX] 用 AI 做了个图片格式转换工具 HEICase，支持 iPhone 和 Mac，本地处理照片
-    🔗 https://www.v2ex.com/t/1258684
-25. [V2EX] 送 10 个 ZooProxy 动态住宅 IP 1G CDK，先到先得
-    🔗 https://www.v2ex.com/t/1258683
-26. [V2EX] 在论坛上提供 Claude 账号验证代办服务是否被允许？
-    🔗 https://www.v2ex.com/t/1258681
-27. [V2EX] 开源一个 Agent 长期记忆系统：262k 多跳 48.3%，高于 CAR 论文报告的 41%
-    🔗 https://www.v2ex.com/t/1258680
-28. [LowEndTalk(EN)] PHP security advisory: Critical remote code execution vulnerabilities, update now (21 Oct 2026)
-    🔗 https://lowendtalk.com/discussion/222375/php-security-advisory-critical-remote-code-execution-vulnerabilities-update-now-21-oct-2026
-29. [LowEndTalk(EN)] [Looking For] 5950X 128GB RAM, 960GB NVMe
-    🔗 https://lowendtalk.com/discussion/223609/looking-for-5950x-128gb-ram-960gb-nvme
-30. [LowEndTalk(EN)] VPS in Russia
-    🔗 https://lowendtalk.com/discussion/223600/vps-in-russia
-31. [LowEndTalk(EN)] Inkling 2 Mini
-    🔗 https://lowendtalk.com/discussion/223608/inkling-2-mini
-32. [LowEndTalk(EN)] DeluxHost is the most outrageous hosting provider I've ever encountered
-    🔗 https://lowendtalk.com/discussion/223599/deluxhost-is-the-most-outrageous-hosting-provider-ive-ever-encountered
-33. [LowEndTalk(EN)] LF 10G DUPLEX OVH LOTTERY
-    🔗 https://lowendtalk.com/discussion/223602/lf-10g-duplex-ovh-lottery
-34. [LowEndTalk(EN)] [WTB] US West Coast Bare Metal Dedicated Servers | High Thread Count CPU | 256G–512G RAM | 4–8TB Ent
-    🔗 https://lowendtalk.com/discussion/223607/wtb-us-west-coast-bare-metal-dedicated-servers-high-thread-count-cpu-256g-512g-ram-4-8tb-ent
-35. [LowEndTalk(EN)] [WTB] OVH KS-LE-6 or SYS-STOR-LE (2027)
-    🔗 https://lowendtalk.com/discussion/223606/wtb-ovh-ks-le-6-or-sys-stor-le-2027
-36. [LowEndTalk(EN)] [WTB] Dedicated Server – GPU/iGPU – 1Gbps Unmetered – EU/US – up to $200/mo
-    🔗 https://lowendtalk.com/discussion/223605/wtb-dedicated-server-gpu-igpu-1gbps-unmetered-eu-us-up-to-200-mo
-37. [Lobste.rs] Internet Archive Staffers Are Unionizing
-    🔗 https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america
-38. [Lobste.rs] Verifying formal models of Raft implementations
-    🔗 https://antithesis.com/blog/2026/verifying-formal-models/
+01. [NodeSeek] 摆摊出点鸡吧
+    🔗 https://www.nodeseek.com/post-1069888-1
+02. [NodeSeek] Krak支付问题
+    🔗 https://www.nodeseek.com/post-1069887-1
+03. [NodeSeek] 不想玩了出Raksmart 年付CN2 49.9+月付CN2 3.99+双isp NTT 2.07内网大套餐
+    🔗 https://www.nodeseek.com/post-1069886-1
+04. [NodeSeek] 出 - 10R 出 Uzum PHCI1/PHCL1 菲律宾家宽
+    🔗 https://www.nodeseek.com/post-1069885-1
+05. [NodeSeek] Gemini开了免费的Pro，如何改为收费的Pro了？
+    🔗 https://www.nodeseek.com/post-1069884-1
+06. [NodeSeek] 300r收临期team 23到27号
+    🔗 https://www.nodeseek.com/post-1069883-1
+07. [NodeSeek] 感觉JIO  反重力，更慢了，是不是GOOGLE 又做限制了？
+    🔗 https://www.nodeseek.com/post-1069882-1
+08. [NodeSeek] 如果不考虑线路情况下，你最喜欢哪个地区的网络
+    🔗 https://www.nodeseek.com/post-1069881-1
+09. [NodeSeek] 卡巴斯基扫描可以用gpu加速吗
+    🔗 https://www.nodeseek.com/post-1069880-1
+10. [NodeSeek] 现在搞机真是太方便了
+    🔗 https://www.nodeseek.com/post-1069878-1
+11. [NodeSeek] 【溢价收】Lightlayer SJC 29.9$/y
+    🔗 https://www.nodeseek.com/post-1069877-1
+12. [NodeSeek] 【NQ】干杯云 祖传机
+    🔗 https://www.nodeseek.com/post-1069876-1
+13. [NodeSeek] 我尼玛 谷歌的免费一个也不能薅都有可能掉，xaiomi的3三个月今天就没了
+    🔗 https://www.nodeseek.com/post-1069875-1
+14. [NodeSeek] Blossom Host 的 AT&T 洛杉矶预售怎么样，能不能做到全绿
+    🔗 https://www.nodeseek.com/post-1069874-1
+15. [NodeSeek] 【收】Zouter jp 月付16.8或者年付168 2T流量
+    🔗 https://www.nodeseek.com/post-1069873-1
+16. [NodeSeek] 在美国家庭搞一台win电脑，有mk沪日专线，怎么搭这个网络能远程桌面阿。
+    🔗 https://www.nodeseek.com/post-1069872-1
+17. [NodeSeek] 【正在出】出个 短期team 标准席位，额度相当于 plus，60r，质保 30 天掉空间
+    🔗 https://www.nodeseek.com/post-1069871-1
+18. [NodeSeek] 【原价出】VMISS HK.INTL.BASIC 18CAD年付款
+    🔗 https://www.nodeseek.com/post-1069870-1
+19. [NodeSeek] gemini ultra 5x 车找人
+    🔗 https://www.nodeseek.com/post-1069869-1
+20. [NodeSeek] aistudio有什么卡能绑吗
+    🔗 https://www.nodeseek.com/post-1069868-1
+21. [V2EX] 做了一个 B 站浏览器插件，屏蔽低质量或者不喜欢类型的 UP
+    🔗 https://www.v2ex.com/t/1258744
+22. [V2EX] Gemini 这预付款怎么要 30 刀
+    🔗 https://www.v2ex.com/t/1258743
+23. [V2EX] IDEA 2026.3 在 Linux 下原生支持 Wayland+Vulkan 渲染
+    🔗 https://www.v2ex.com/t/1258742
+24. [V2EX] 动态 IP 代理试用，可先测试再决定
+    🔗 https://www.v2ex.com/t/1258740
+25. [V2EX] 服务器上有什么有趣的应用和玩法？有什么推荐个人项目的自己玩的？
+    🔗 https://www.v2ex.com/t/1258736
+26. [V2EX] 怎么在美亚买个手机
+    🔗 https://www.v2ex.com/t/1258735
+27. [V2EX] 给位，怎样充值 OpenAI 啊？
+    🔗 https://www.v2ex.com/t/1258734
+28. [V2EX] 马上黑五了，大家有什么准备购入的好物吗？
+    🔗 https://www.v2ex.com/t/1258733
+29. [V2EX] 🎉 File-Organizer (文件归档/批量重命名) 上架 App Store | 黑五回馈 V 友
+    🔗 https://www.v2ex.com/t/1258731
+30. [V2EX] [AIask]周末发点鸡蛋，回复 id 就发。Claude opus 5.5 限时 5 天打一折，输入 $0.4/M，输出：$2/M
+    🔗 https://www.v2ex.com/t/1258730
+31. [V2EX] vibe 了一个 终端论坛 motd
+    🔗 https://www.v2ex.com/t/1258728
+32. [V2EX] 这种情况到底是大墙还是运营商墙中墙？
+    🔗 https://www.v2ex.com/t/1258727
+33. [V2EX] 分享一个简历生成工具
+    🔗 https://www.v2ex.com/t/1258725
+34. [V2EX] 20 日美股这跌幅，是不是 AI 泡泡要破了？
+    🔗 https://www.v2ex.com/t/1258724
+35. [V2EX] 最近入手一台 macbook 想配多个显示器
+    🔗 https://www.v2ex.com/t/1258723
+36. [V2EX] Apple Music 加载慢，看来真不是我的错觉
+    🔗 https://www.v2ex.com/t/1258722
+37. [V2EX] 美股这个走势，要进入熊市了吗
+    🔗 https://www.v2ex.com/t/1258721
+38. [V2EX] 远程技术招聘｜26 类岗位，覆盖 AI 工作流、算法、后端、前端、运维与安全
+    🔗 https://www.v2ex.com/t/1258720
+39. [V2EX] Claude 官方订阅全套代开与本地部署服务（Pro / Max / Ultra，可选包封号方案）
+    🔗 https://www.v2ex.com/t/1258719
+40. [V2EX] [机场推广] 性价比高的机器不好找
+    🔗 https://www.v2ex.com/t/1258718
+41. [V2EX] 推荐个梯子吧，自己买了好几个，一到晚上连油管都打不开 太拉了，打算预算可以加一点
+    🔗 https://www.v2ex.com/t/1258717
+42. [V2EX] gemini neon 不堪大任
+    🔗 https://www.v2ex.com/t/1258716
+43. [V2EX] 美区 appleID ,用礼品卡买不了 claude 了。。
+    🔗 https://www.v2ex.com/t/1258715
+44. [V2EX] 用 Codex 给 Geometry Dash 抽卡小游戏加了中文版，聊聊多语言评论怎么做
+    🔗 https://www.v2ex.com/t/1258714
+45. [V2EX] 分享一个慢慢和 A/脱敏的思路
+    🔗 https://www.v2ex.com/t/1258712
+46. [V2EX] 请问觉得给她爱 6（gta）Jason Duval（男主）刻画有问题吗
+    🔗 https://www.v2ex.com/t/1258711
+47. [V2EX] AI 行情结束的标志性事件—Anthropic 上市
+    🔗 https://www.v2ex.com/t/1258710
+48. [V2EX] [接单] 自动化创业记录，AI 真的能帮普通人逆袭吗
+    🔗 https://www.v2ex.com/t/1258709
+49. [V2EX] 你也受多邻国的折磨吗？使用 Opus5.5 做了一个南方公园风格的讽刺短片
+    🔗 https://www.v2ex.com/t/1258708
+50. [V2EX] 观人工智能解决黎曼猜想有感
+    🔗 https://www.v2ex.com/t/1258707
+51. [V2EX] 打开一个网页就能被黑？聊聊 Coruna、DarkSword 和 worse_query 这几个 iPhone 漏洞
+    🔗 https://www.v2ex.com/t/1258706
+52. [V2EX] 分享一个 claude 解封案例
+    🔗 https://www.v2ex.com/t/1258705
+53. [V2EX] 做了 4 个 Edge 浏览器插件：对话导出 / YouTube 字幕导出 / 会话快照 / 专注拦截
+    🔗 https://www.v2ex.com/t/1258704
+54. [V2EX] 数万人在用的 Claude 中转，新人领 10 美元体验金
+    🔗 https://www.v2ex.com/t/1258703
+55. [V2EX] [手慢无] 2026 硬件暴涨下罕见低价！RackNerd 黑五专供 11 月 20 日开抢 附 cn2 gia 最新消息
+    🔗 https://www.v2ex.com/t/1258702
+56. [V2EX] [年度观察] 梳理了近两年 V2EX 独立开发者做的 20+ 款浏览器扩展，顺便聊聊插件出海与冷启动
+    🔗 https://www.v2ex.com/t/1258701
+57. [V2EX] grokbot 不支持通过 codex/claude code 编辑本地带有.git 目录的仓库
+    🔗 https://www.v2ex.com/t/1258700
+58. [V2EX] 做了个简单明了实用的日程管理工具，可本地可远程同步 caldav，支持苹果、统信、Windows
+    🔗 https://www.v2ex.com/t/1258699
+59. [V2EX] 「黑五 7 折 + 送 10 个终身版」Enconvo：自带 Computer Use 和 Browser Use 的 AI 助手，Mac / Windows / Linux / iPhone / Android 全平台原生应用
+    🔗 https://www.v2ex.com/t/1258698
+60. [V2EX] 黑五将至，有什么靠谱的 VPS 推荐不？
+    🔗 https://www.v2ex.com/t/1258697
+61. [V2EX] 宇宙角落的某个星球有个弱智文明，他们的数学只会计算加法和减法
+    🔗 https://www.v2ex.com/t/1258696
+62. [Lobste.rs] Scaling Git horizontally: how we moved beyond Multi-Raft
+    🔗 https://enroute.sh/blog/scaling-horizontally-how-we-moved-beyond-multi-raft
+63. [Lobste.rs] Slopstrap: Make your site look hastily vibecoded
+    🔗 https://slopstrap.mikelacher.com/l
+64. [Lobste.rs] From Skiplists to B+ Trees: Making Valkey Sorted Sets More Memory Efficient
+    🔗 https://valkey.io/blog/from-skiplist-to-b+tree/
+65. [Lobste.rs] DNS Stamps Specification
+    🔗 https://dnscrypt.info/stamps-specifications/
+66. [GitHub] [GitHub Hot] sponsors/elementalsouls (今日新增 ⭐1,622): No description
+    🔗 https://github.com/sponsors/elementalsouls
+67. [GitHub] [GitHub Hot] sponsors/obra (今日新增 ⭐890): No description
+    🔗 https://github.com/sponsors/obra
+68. [GitHub] [GitHub Hot] HKUDS/CLI-Anything (今日新增 ⭐773): No description
+    🔗 https://github.com/HKUDS/CLI-Anything
+69. [GitHub] [GitHub Hot] jingyaogong/minimind (今日新增 ⭐847): No description
+    🔗 https://github.com/jingyaogong/minimind
+70. [GitHub] [GitHub Hot] cursor/plugins (今日新增 ⭐299): No description
+    🔗 https://github.com/cursor/plugins
+71. [GitHub] [GitHub Hot] firecrawl/firecrawl (今日新增 ⭐1,241): No description
+    🔗 https://github.com/firecrawl/firecrawl
+72. [GitHub] [GitHub Hot] nginx/nginx (今日新增 ⭐246): No description
+    🔗 https://github.com/nginx/nginx
+73. [GitHub] [GitHub Hot] openvinotoolkit/openvino (今日新增 ⭐217): No description
+    🔗 https://github.com/openvinotoolkit/openvino
+74. [GitHub] [GitHub Hot] sponsors/cathrynlavery (今日新增 ⭐636): No description
+    🔗 https://github.com/sponsors/cathrynlavery
+75. [GitHub] [GitHub Hot] mvanhorn/last30days-skill (今日新增 ⭐681): No description
+    🔗 https://github.com/mvanhorn/last30days-skill
+76. [GitHub] [GitHub Hot] google-labs-code/stitch-skills (今日新增 ⭐315): No description
+    🔗 https://github.com/google-labs-code/stitch-skills
+77. [GitHub] [GitHub Hot] sponsors/mjmirza (今日新增 ⭐869): No description
+    🔗 https://github.com/sponsors/mjmirza
+78. [GitHub] [GitHub Hot] Tracer-Cloud/opensre (今日新增 ⭐466): No description
+    🔗 https://github.com/Tracer-Cloud/opensre
+79. [GitHub] [GitHub Hot] sponsors/toeverything (今日新增 ⭐676): No description
+    🔗 https://github.com/sponsors/toeverything
+80. [GitHub] [GitHub Hot] XiaoYouChR/Ghost-Downloader-3 (今日新增 ⭐1,082): No description
+    🔗 https://github.com/XiaoYouChR/Ghost-Downloader-3
+81. [GitHub] [GitHub Hot] zhouxiaoka/autoclip (今日新增 ⭐979): No description
+    🔗 https://github.com/zhouxiaoka/autoclip
 =================================================================
